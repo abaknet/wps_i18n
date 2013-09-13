@@ -5125,7 +5125,7 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>Show Reviewer Information in the Balloon</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">žžžž</translation>
     </message>
     <message>
         <source>Show Revisions in Balloons</source>
