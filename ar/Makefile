@@ -1,1 +1,28 @@
-../dev/Makefile.templ
+MAKE_QM="../dev/make_qm.sh"
+MAKE_RCC="../dev/make_rcc.sh"
+MAKE_INSTALL="../dev/make_install.sh"
+LANGID=`basename ${CURDIR}`
+
+ifeq (${USER},root)
+	DEST=/opt/kingsoft/wps-office/office6/mui/${LANGID}
+else
+	DEST=${HOME}/.kingsoft/mui/${LANGID}
+endif
+
+all: qm rcc
+
+clean:
+	rm -f *.qm
+	rm -f res.rcc
+
+qm:
+	@ ${MAKE_QM} ts/*
+
+rcc:
+	@ ${MAKE_RCC} res/*.qrc
+
+install: all uninstall
+	@ ${MAKE_INSTALL}
+	
+uninstall:
+	@ rm -rf "${DEST}" && echo "Uninstall ${LANGID} succeed!"
