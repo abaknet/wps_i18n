@@ -103,7 +103,11 @@
     <name>EmptyBackupPanel</name>
     <message>
         <source>:/NetbackupWizard/ENU_emptybacktip.png</source>
-        <translation type="unfinished">:/NetbackupWizard/emptybacktip.png</translation>
+        <translation type="obsolete">:/NetbackupWizard/emptybacktip.png</translation>
+    </message>
+    <message>
+        <source>emptybacktip</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -254,11 +258,11 @@
     </message>
     <message>
         <source>Layout changes will take effect after restart.</source>
-        <translation type="unfinished">界面布局更改将在下次启动WPS Office时生效</translation>
+        <translation>界面布局更改将在下次启动WPS Office时生效</translation>
     </message>
     <message>
         <source>Hey, click here to switch user interface!</source>
-        <translation type="unfinished">嗨，点击这里。
+        <translation>嗨，点击这里。
 可以更改不同的界面风格！</translation>
     </message>
 </context>
@@ -450,30 +454,30 @@
     <name>KInputPasswordDlg</name>
     <message>
         <source>Enter password to open file</source>
-        <translation type="unfinished">请键入打开文件所需的密码</translation>
+        <translation>请键入打开文件所需的密码</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">密码</translation>
+        <translation>密码</translation>
     </message>
 </context>
 <context>
     <name>KInputWritePasswordDlg</name>
     <message>
         <source>&amp;Password:</source>
-        <translation type="unfinished">密码(&amp;P):</translation>
+        <translation>密码(&amp;P):</translation>
     </message>
     <message>
         <source>&amp;Read Only</source>
-        <translation type="unfinished">只读(&amp;R)</translation>
+        <translation>只读(&amp;R)</translation>
     </message>
     <message>
         <source>Enter password to modify, or open read only.</source>
-        <translation type="unfinished">输入修改密码，或者只读模式打开。</translation>
+        <translation>输入修改密码，或者只读模式打开。</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">密码</translation>
+        <translation>密码</translation>
     </message>
 </context>
 <context>
@@ -509,6 +513,53 @@
     <message>
         <source>Symbol</source>
         <translation>符号</translation>
+    </message>
+</context>
+<context>
+    <name>KLanguageChooseDialog</name>
+    <message>
+        <source>Choose Language</source>
+        <translation>选择语言</translation>
+    </message>
+    <message>
+        <source>Get More...</source>
+        <translation>获取更多...</translation>
+    </message>
+    <message>
+        <source>Install Locale</source>
+        <translation>安装语言</translation>
+    </message>
+    <message>
+        <source>Choose Language Installation Package</source>
+        <translation>选择语言安装包</translation>
+    </message>
+    <message>
+        <source>archives (*.zip)</source>
+        <translation>压缩文档 (*.zip)</translation>
+    </message>
+    <message>
+        <source>Install Language Package</source>
+        <translation>安装语言包</translation>
+    </message>
+    <message>
+        <source>installation fails, make sure to install the complete package!</source>
+        <translation>安装失败，请确保安装包的完整性！</translation>
+    </message>
+    <message>
+        <source>Choose your language</source>
+        <translation>选择语言</translation>
+    </message>
+    <message>
+        <source>&amp;Reset personal template</source>
+        <translation>重置个人模板(&amp;R)</translation>
+    </message>
+    <message>
+        <source>Information</source>
+        <translation>信息</translation>
+    </message>
+    <message>
+        <source>Settings will be effected after application restarted.</source>
+        <translation>设置将在启动后生效。</translation>
     </message>
 </context>
 <context>
@@ -608,23 +659,23 @@
     </message>
     <message>
         <source>Compare Side by Side Window</source>
-        <translation type="unfinished"></translation>
+        <translation>并排比较</translation>
     </message>
     <message>
         <source>Select Window</source>
-        <translation type="unfinished"></translation>
+        <translation>选定窗口</translation>
     </message>
     <message>
         <source>Switch Window to</source>
-        <translation type="unfinished"></translation>
+        <translation>窗口切换到</translation>
     </message>
     <message>
         <source>Please Choose the Window to Compare</source>
-        <translation type="unfinished"></translation>
+        <translation>选择需要比较的窗口</translation>
     </message>
     <message>
         <source>Active Window:</source>
-        <translation type="unfinished"></translation>
+        <translation>当前窗口为：</translation>
     </message>
 </context>
 <context>
@@ -848,7 +899,7 @@
     </message>
     <message>
         <source>Armenian</source>
-        <translation type="unfinished">亚美尼亚语</translation>
+        <translation>亚美尼亚语</translation>
     </message>
     <message>
         <source>Arrows</source>
@@ -1148,7 +1199,7 @@
     </message>
     <message>
         <source>Tamil</source>
-        <translation type="unfinished">泰米尔语</translation>
+        <translation>泰米尔语</translation>
     </message>
     <message>
         <source>Telugu</source>
@@ -1216,6 +1267,14 @@
     <message>
         <source>Product ID: </source>
         <translation></translation>
+    </message>
+    <message>
+        <source>res:/icons/kxshare/%1.png</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Part of %1 activation version</source>
+        <translation>%1 激活版本的一部分</translation>
     </message>
 </context>
 <context>
@@ -1391,6 +1450,14 @@
     </message>
 </context>
 <context>
+    <name>KxControlToolboxToolBarViewCommand</name>
+    <message>
+        <source>To work with Control Toolbox, please purchase Kingsoft Office Professional.
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxCustomDictionaryDlg</name>
     <message>
         <source>(Default)</source>
@@ -1448,43 +1515,43 @@
     <name>KxCustomToolBarCmd</name>
     <message>
         <source>&amp;Copy To...</source>
-        <translation type="unfinished">复制到(&amp;C)...</translation>
+        <translation>复制到(&amp;C)...</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished">删除(&amp;D)</translation>
+        <translation>删除(&amp;D)</translation>
     </message>
     <message>
         <source>&amp;Edit...</source>
-        <translation type="unfinished">编辑(&amp;E)...</translation>
+        <translation>编辑(&amp;E)...</translation>
     </message>
     <message>
         <source>&amp;Move To...</source>
-        <translation type="unfinished">移动到(&amp;M)...</translation>
+        <translation>移动到(&amp;M)...</translation>
     </message>
     <message>
         <source>&amp;Reset</source>
-        <translation type="unfinished">重置(&amp;R)</translation>
+        <translation>重置(&amp;R)</translation>
     </message>
     <message>
         <source>+</source>
-        <translation type="unfinished">+</translation>
+        <translation>+</translation>
     </message>
     <message>
         <source>-</source>
-        <translation type="unfinished">-</translation>
+        <translation>-</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">添加</translation>
+        <translation>添加</translation>
     </message>
     <message>
         <source>Are you sure you want to reset the &apos;%1&apos; command?</source>
-        <translation type="unfinished">是否确实要重置对 “%1” 命令栏所做的更改?</translation>
+        <translation>是否确实要重置对 “%1” 命令栏所做的更改?</translation>
     </message>
     <message>
         <source>Begin &amp;Group</source>
-        <translation type="unfinished">开始一组(&amp;G)</translation>
+        <translation>开始一组(&amp;G)</translation>
     </message>
     <message>
         <source>Command &amp;Bars</source>
@@ -1504,7 +1571,7 @@
     </message>
     <message>
         <source>D</source>
-        <translation type="unfinished">↓</translation>
+        <translation>↓</translation>
     </message>
     <message>
         <source>Dialog</source>
@@ -1512,31 +1579,31 @@
     </message>
     <message>
         <source>Move To</source>
-        <translation type="unfinished">移动到</translation>
+        <translation>移动到</translation>
     </message>
     <message>
         <source>Move down</source>
-        <translation type="unfinished">下移</translation>
+        <translation>下移</translation>
     </message>
     <message>
         <source>Move up</source>
-        <translation type="unfinished">上移</translation>
+        <translation>上移</translation>
     </message>
     <message>
         <source>P&amp;aste Picture</source>
-        <translation type="unfinished">粘贴图像(&amp;A)</translation>
+        <translation>粘贴图像(&amp;A)</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">删除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished">重置(&amp;R)</translation>
+        <translation>重置(&amp;R)</translation>
     </message>
     <message>
         <source>U</source>
-        <translation type="unfinished">↑</translation>
+        <translation>↑</translation>
     </message>
 </context>
 <context>
@@ -1625,6 +1692,14 @@
     <message>
         <source>The toolbar name cannot be blank. Type a name please.</source>
         <translation>工具栏名称不能为空。</translation>
+    </message>
+</context>
+<context>
+    <name>KxDevelopToolsTriggerCommand</name>
+    <message>
+        <source>To work with Developer tab (including Macros, Control
+Toolbox), please purchase Kingsoft Office Professional.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2170,19 +2245,19 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Color &amp;1:</source>
-        <translation type="unfinished">颜色 2(&amp;1:):</translation>
+        <translation>颜色 1(&amp;1:):</translation>
     </message>
     <message>
         <source>Color &amp;2:</source>
-        <translation type="unfinished">颜色 2(&amp;2:):</translation>
+        <translation>颜色 2(&amp;2:):</translation>
     </message>
     <message>
         <source>Pa&amp;ttern:</source>
-        <translation type="unfinished"></translation>
+        <translation>图案(&amp;T):</translation>
     </message>
     <message>
         <source>CurtainOfNight</source>
-        <translation type="unfinished"></translation>
+        <translation>夜幕徐徐</translation>
     </message>
 </context>
 <context>
@@ -2497,11 +2572,11 @@ installed, or you are sure all documents you open are safe.</source>
     <name>KxDlgPrinterProperties</name>
     <message>
         <source>Printer Properties</source>
-        <translation type="unfinished">打印机属性</translation>
+        <translation>打印机属性</translation>
     </message>
     <message>
         <source>Properties</source>
-        <translation type="unfinished">属性</translation>
+        <translation>属性</translation>
     </message>
 </context>
 <context>
@@ -3074,26 +3149,26 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <name>KxGDocsExplorer</name>
     <message>
         <source>&amp;Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>刷新(&amp;R)</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished">打开</translation>
+        <translation>打开</translation>
     </message>
 </context>
 <context>
     <name>KxGDocsLoginDlg</name>
     <message>
         <source>&amp;Password:</source>
-        <translation type="unfinished">密码(&amp;P):</translation>
+        <translation>密码(&amp;P):</translation>
     </message>
     <message>
         <source>&amp;Save Acount</source>
-        <translation type="unfinished"></translation>
+        <translation>记住帐户(&amp;S)</translation>
     </message>
     <message>
         <source>&amp;UserName:</source>
-        <translation type="unfinished"></translation>
+        <translation>用户名(&amp;U)：</translation>
     </message>
     <message>
         <source>Captcha:</source>
@@ -3212,7 +3287,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished">自定义</translation>
+        <translation>自定义</translation>
     </message>
 </context>
 <context>
@@ -3365,10 +3440,6 @@ Double click any item can open the file, or you can use the popup menu. This wil
 <context>
     <name>KxMacroCommand</name>
     <message>
-        <source>Click to try it now.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Download</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3376,6 +3447,18 @@ Double click any item can open the file, or you can use the popup menu. This wil
         <source>No</source>
         <translation>否</translation>
     </message>
+    <message>
+        <source>To work with macros, please purchase Kingsoft Office Professional.
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click to purchase now.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxMacroListCommand</name>
     <message>
         <source>To work with macros, please purchase Kingsoft Office Professional.
 </source>
@@ -3959,7 +4042,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Delete Record</source>
-        <translation type="unfinished">清除记录</translation>
+        <translation>清除记录</translation>
     </message>
 </context>
 <context>
@@ -4022,6 +4105,29 @@ run. All other signed and unsigned macros are disabled.</source>
     </message>
 </context>
 <context>
+    <name>KxSetSpellcheckLanguageDlg</name>
+    <message>
+        <source>Choose Spellcheck Installation Package</source>
+        <translation>选择拼写检查安装包</translation>
+    </message>
+    <message>
+        <source>ZIP File (*.zip)</source>
+        <translation>压缩文档 (*.zip)</translation>
+    </message>
+    <message>
+        <source>Install Spellcheck Package</source>
+        <translation>安装拼写检查包</translation>
+    </message>
+    <message>
+        <source>Installation fails, make sure to install the complete package!</source>
+        <translation>安装失败，请确保安装包的完整性！</translation>
+    </message>
+    <message>
+        <source>Spellcheck language already exists.</source>
+        <translation>拼写检查语言已存在。</translation>
+    </message>
+</context>
+<context>
     <name>KxSizeWidget</name>
     <message>
         <source>Value should be between 0% and 10675%.</source>
@@ -4044,7 +4150,7 @@ run. All other signed and unsigned macros are disabled.</source>
     </message>
     <message>
         <source> is not a valid file!</source>
-        <translation type="unfinished">不是一个有效的文件！</translation>
+        <translation>不是一个有效的文件！</translation>
     </message>
 </context>
 <context>
@@ -4082,7 +4188,7 @@ run. All other signed and unsigned macros are disabled.</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">关闭</translation>
+        <translation>关闭</translation>
     </message>
 </context>
 <context>
@@ -4101,14 +4207,18 @@ run. All other signed and unsigned macros are disabled.</source>
     </message>
     <message>
         <source>I have understood</source>
-        <translation type="unfinished">我知道了</translation>
+        <translation>我知道了</translation>
     </message>
 </context>
 <context>
     <name>KxSwitchView</name>
     <message>
         <source>This locale can not use the skin!</source>
-        <translation type="unfinished"></translation>
+        <translation>当前区域不能使用这个皮肤！</translation>
+    </message>
+    <message>
+        <source>restart will change</source>
+        <translation>重启生效</translation>
     </message>
 </context>
 <context>
@@ -4165,7 +4275,7 @@ run. All other signed and unsigned macros are disabled.</source>
     </message>
     <message>
         <source>Icon</source>
-        <translation type="unfinished">图标</translation>
+        <translation>图标</translation>
     </message>
     <message>
         <source>Resolution</source>
@@ -4352,11 +4462,11 @@ run. All other signed and unsigned macros are disabled.</source>
     </message>
     <message>
         <source>Clear Backups</source>
-        <translation type="unfinished">清除备份文件</translation>
+        <translation>清除备份文件</translation>
     </message>
     <message>
         <source>Open Backup Folder</source>
-        <translation type="unfinished">打开备份目录</translation>
+        <translation>打开备份目录</translation>
     </message>
 </context>
 <context>
@@ -4690,7 +4800,7 @@ run. All other signed and unsigned macros are disabled.</source>
     </message>
     <message>
         <source>Open the recent file record management dialog, and remove some or all of the recent file records.</source>
-        <translation>打开最近文档记录管理对话框，清除部分或全部的文档打开记录</translation>
+        <translation>打开最近文档记录管理对话框，清除部分或全部的文档打开记录。</translation>
     </message>
     <message>
         <source>Open...</source>
@@ -4706,7 +4816,7 @@ run. All other signed and unsigned macros are disabled.</source>
     </message>
     <message>
         <source>New from Other Templates...</source>
-        <translation type="unfinished">本机上的模板...</translation>
+        <translation>本机上的模板...</translation>
     </message>
 </context>
 <context>
@@ -4744,7 +4854,7 @@ run. All other signed and unsigned macros are disabled.</source>
     <name>KxTrialExpireDlg</name>
     <message>
         <source>quit</source>
-        <translation type="unfinished">退出</translation>
+        <translation>退出</translation>
     </message>
 </context>
 <context>
@@ -4921,7 +5031,7 @@ of services and features.</source>
     </message>
     <message>
         <source>cm</source>
-        <translation type="unfinished">厘米</translation>
+        <translation>厘米</translation>
     </message>
 </context>
 <context>
@@ -4995,35 +5105,7 @@ of services and features.</source>
         <translation>冲蚀</translation>
     </message>
     <message>
-        <source>cbDropDownList</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>pt, 2, -169077, 169077, 1</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>ucBrightness</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>ucContrast</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>ucCropBottom</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>ucCropLeft</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>ucCropRight</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>ucCropTop</source>
         <translation></translation>
     </message>
 </context>
@@ -5510,7 +5592,7 @@ Always take this action</source>
     <message>
         <source>Kingsoft Office is not the default office software, do you want to set it as the default one?
 (The system uses Kingsoft Office as the default one to open doc, xls and ppt files)</source>
-        <translation>WPS Office不是系统默认的办公软件，是否将其设置为默认的办公软件？
+        <translation type="obsolete">WPS Office不是系统默认的办公软件，是否将其设置为默认的办公软件？
 (系统默认会以WPS Office打开doc、xls、ppt等办公软件格式的文档)</translation>
     </message>
     <message>
@@ -5657,7 +5739,7 @@ Always take this action</source>
     </message>
     <message>
         <source>Norwegian (Bokmål)</source>
-        <translation>挪威（博克马尔语）</translation>
+        <translation type="obsolete">挪威（博克马尔语）</translation>
     </message>
     <message>
         <source>Portuguese (Brazil)</source>
@@ -6157,14 +6239,27 @@ Always take this action</source>
     </message>
     <message>
         <source>The selected dict was deleted, please select another dict.</source>
+        <translation type="obsolete">所选择的拼写语言已经被删除，请重新选择拼写语言。</translation>
+    </message>
+    <message>
+        <source>Norwegian (BokmÃ¥l)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The selected dict has been deleted, please select another dict.</source>
         <translation>所选择的拼写语言已经被删除，请重新选择拼写语言。</translation>
+    </message>
+    <message>
+        <source>Kingsoft Office is not the default office software, do you want to set it as the default one?
+(The system uses Kingsoft Office as the default one to open doc, xls, ppt files)</source>
+        <translation>WPS Office不是系统默认的办公软件，是否将其设置为默认的办公软件？(系统默认会以WPS Office打开doc、xls、ppt等办公软件格式的文档)</translation>
     </message>
 </context>
 <context>
     <name>SelPictureWidgetBase</name>
     <message>
         <source>This locale can not use the skin!</source>
-        <translation type="unfinished"></translation>
+        <translation>当前区域不能使用此皮肤！</translation>
     </message>
 </context>
 <context>
@@ -6602,6 +6697,18 @@ Document</source>
     </message>
     <message>
         <source>close</source>
+        <translation type="obsolete">关闭</translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation>更多</translation>
+    </message>
+    <message>
+        <source>Install</source>
+        <translation>安装</translation>
+    </message>
+    <message>
+        <source>Close</source>
         <translation>关闭</translation>
     </message>
 </context>
@@ -7003,6 +7110,21 @@ Document</source>
     <message>
         <source>property</source>
         <translation>属性</translation>
+    </message>
+</context>
+<context>
+    <name>updateMessageDlg</name>
+    <message>
+        <source>Update</source>
+        <translation>更新</translation>
+    </message>
+    <message>
+        <source>New version is prepared. Would you like to get it now?</source>
+        <translation>发现新版本，是否前往更新？</translation>
+    </message>
+    <message>
+        <source>Ignore this version.</source>
+        <translation>忽略此版本</translation>
     </message>
 </context>
 <context>

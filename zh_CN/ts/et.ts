@@ -10,6 +10,72 @@
     </message>
 </context>
 <context>
+    <name>Constraint</name>
+    <message>
+        <source>Constraint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>C&amp;ell Reference:</source>
+        <translation>单元格引用(&amp;E):</translation>
+    </message>
+    <message>
+        <source>Co&amp;nstraint:</source>
+        <translation>约束(&amp;N):</translation>
+    </message>
+    <message>
+        <source>&lt;=</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>=</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&gt;=</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>int</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>bin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;OK</source>
+        <translation>确定(&amp;O)</translation>
+    </message>
+    <message>
+        <source>&amp;Add</source>
+        <translation>添加(&amp;A)</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation>取消(&amp;C)</translation>
+    </message>
+</context>
+<context>
+    <name>DisplayResult</name>
+    <message>
+        <source>Show Trial Solution</source>
+        <translation>显示中间结果</translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Continue</source>
+        <translation>继续(&amp;C)</translation>
+    </message>
+    <message>
+        <source>&amp;Stop</source>
+        <translation>停止(&amp;S)</translation>
+    </message>
+</context>
+<context>
     <name>ExitEditOpenFile</name>
     <message>
         <source>&amp;Open</source>
@@ -214,7 +280,7 @@ condition is true: </source>
     </message>
     <message>
         <source>&amp;Activate:</source>
-        <translation type="unfinished"></translation>
+        <translation>活动文档(&amp;A):</translation>
     </message>
 </context>
 <context>
@@ -517,25 +583,56 @@ condition is true: </source>
     </message>
 </context>
 <context>
+    <name>KxAddInsDlg</name>
+    <message>
+        <source>Can&apos;t find addins macro &quot;</source>
+        <translation>找不到加载宏 "</translation>
+    </message>
+    <message>
+        <source>&quot;, delete it from the list?</source>
+        <translation>"，从列表中删除吗？</translation>
+    </message>
+    <message>
+        <source>AddIns Macro</source>
+        <translation>加载宏</translation>
+    </message>
+    <message>
+        <source>Browse</source>
+        <translation>浏览</translation>
+    </message>
+    <message>
+        <source>All Files</source>
+        <translation>所有文件</translation>
+    </message>
+    <message>
+        <source>file is exist in the list.</source>
+        <translation>文件在列表中已存在。</translation>
+    </message>
+    <message>
+        <source>is a invalid addins macro file.</source>
+        <translation>为无效的加载宏。</translation>
+    </message>
+</context>
+<context>
     <name>KxAfFilterThisOneLabel</name>
     <message>
         <source>Filter this item only</source>
-        <translation type="unfinished"></translation>
+        <translation>仅筛选此项</translation>
     </message>
     <message>
         <source>Clear filter</source>
-        <translation type="unfinished"></translation>
+        <translation>清除筛选</translation>
     </message>
 </context>
 <context>
     <name>KxAfTreeViewHeaderWidget</name>
     <message>
         <source>Multiple</source>
-        <translation type="unfinished"></translation>
+        <translation>多选</translation>
     </message>
     <message>
         <source>Single</source>
-        <translation type="unfinished">单下划线</translation>
+        <translation>单选</translation>
     </message>
 </context>
 <context>
@@ -547,6 +644,25 @@ condition is true: </source>
     <message>
         <source>Value should be between %1 and %2.</source>
         <translation>输入的值应该介于 %1 和 %2 之间。</translation>
+    </message>
+</context>
+<context>
+    <name>KxAlignmentWidget</name>
+    <message>
+        <source>:/dialog/et_DlgFormatShape_ilOtHori_1.png</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>:/dialog/et_DlgFormatShape_ilOtVert_3.png</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>:/dialog/et_DlgFormatShape_ilOtVert_4.png</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>:/dialog/et_DlgFormatShape_ilOtVert_5.png</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -578,7 +694,7 @@ condition is true: </source>
     </message>
     <message>
         <source>Calculate</source>
-        <translation type="unfinished"></translation>
+        <translation>计算</translation>
     </message>
 </context>
 <context>
@@ -702,6 +818,37 @@ condition is true: </source>
     </message>
 </context>
 <context>
+    <name>KxConstraintDlg</name>
+    <message>
+        <source>The integer constraint cell references must include only the variable cell.</source>
+        <translation>整数约束单元格引用必须仅包括可变单元格。</translation>
+    </message>
+    <message>
+        <source>Binary constraint cell references must include only the variable cell.</source>
+        <translation>二进制约束单元格引用必须仅包括可变单元格。</translation>
+    </message>
+    <message>
+        <source>Constraint must be a numeric value, simple reference or with a numerical formula.</source>
+        <translation>约束必须是数值、简单引用或具数值的公式。</translation>
+    </message>
+    <message>
+        <source>&apos;The cell reference position&apos; and &apos;restraint&apos; in different cell numbers.</source>
+        <translation>&quot;单元格引用位置&quot;和&quot;约束&quot;中单元格数字不相等。</translation>
+    </message>
+    <message>
+        <source>Integer</source>
+        <translation>整数</translation>
+    </message>
+    <message>
+        <source>Binary</source>
+        <translation type="obsolete">二进制</translation>
+    </message>
+    <message>
+        <source>Unchecked &apos;the cell reference position&apos; or its content is invalid.</source>
+        <translation>未选定“单元格引用位置”框或其内容无效。</translation>
+    </message>
+</context>
+<context>
     <name>KxControlWidget</name>
     <message>
         <source>Input error, the value must be a Number.</source>
@@ -724,30 +871,30 @@ condition is true: </source>
     <name>KxCreatePivotTableDlg</name>
     <message>
         <source>You cannot modify the PivotTable with these data. Please check your data and make sure that the reference is valid and the worksheet exists.</source>
-        <translation type="unfinished">您不能使用当前数据来修改已有的数据透视表。请检查引用区域是否有效，指定工作表是否存在。</translation>
+        <translation>您不能使用当前数据来修改已有的数据透视表。请检查引用区域是否有效，指定工作表是否存在。</translation>
     </message>
     <message>
         <source>Reference is not valid.</source>
-        <translation type="unfinished">引用无效。</translation>
+        <translation>引用无效。</translation>
     </message>
     <message>
         <source>Modify PivotTable</source>
-        <translation type="unfinished">修改数据透视表</translation>
+        <translation>修改数据透视表</translation>
     </message>
     <message>
         <source>The position you chose to place the PivotTable is not valid. Please make sure it is a valid reference range, and not a range of a hidden sheet.</source>
-        <translation type="unfinished">您选择放置数据透视表的位置不正确。请确认该位置是一个合法的引用区域，并且不是隐藏工作表上的区域。</translation>
+        <translation>您选择放置数据透视表的位置不正确。请确认该位置是一个合法的引用区域，并且不是隐藏工作表上的区域。</translation>
     </message>
     <message>
         <source>You cannot create a PivotTable with these data. Please check your data and make sure that the reference is valid and the worksheet exists.</source>
-        <translation type="unfinished">您不能使用当前数据来创建数据透视表。请检查引用区域是否有效，指定工作表是否存在。</translation>
+        <translation>您不能使用当前数据来创建数据透视表。请检查引用区域是否有效，指定工作表是否存在。</translation>
     </message>
     <message>
         <source>You cannot create a PivotTable with these data. Please check whether the data which you want to analyize meet the following conditions:
 1.Make sure that the reference exists. If it is a name, it must be a valid range;
 2.Make sure that the reference is a single range, and it must contain two rows at least;
 3.Make sure that the first row of reference range not contain any empty cells, no error value, and each cell contains not more than 255 characters.</source>
-        <translation type="unfinished">您选择的数据透视表的数据源不正确。请检查您要分析的数据是否满足以下几个条件：
+        <translation>您选择的数据透视表的数据源不正确。请检查您要分析的数据是否满足以下几个条件：
 1.确认引用区域是存在的。如果是名称，请确认该名称引用的是一个合法的区域；
 2.确认引用区域是单一的区域，并且至少有两行；
 3.确认引用区域是第一行且不存在空白的单元格，不包含错误值，而且每个单元格内的字符数不超过255个。</translation>
@@ -878,6 +1025,29 @@ To keep existing picture, click Cancel button.</source>
     </message>
 </context>
 <context>
+    <name>KxDisplayResultDlg</name>
+    <message>
+        <source>The maximum iteration limit was reached; continue anyway?</source>
+        <translation>已达最多迭代次数，是否继续执行?</translation>
+    </message>
+    <message>
+        <source>The maximum time limit was reached; continue anyway?</source>
+        <translation>已达最大时间限制，是否继续执行?</translation>
+    </message>
+    <message>
+        <source>The maximum number of integer solutions was reached; continue anyway?</source>
+        <translation>已达到整数解的最大数目，是否继续执行?</translation>
+    </message>
+    <message>
+        <source>The maximum number of integer subproblems was reached; continue anyway?</source>
+        <translation>已达到整数子问题的最大数目，是否继续执行?</translation>
+    </message>
+    <message>
+        <source>Solver paused, current solution values displayed on worksheet.</source>
+        <translation>规划求解暂停，工作表上显示出当前求解的值。</translation>
+    </message>
+</context>
+<context>
     <name>KxDlgAdcancedFilter</name>
     <message>
         <source>&amp;Criteria range:</source>
@@ -922,6 +1092,25 @@ To keep existing picture, click Cancel button.</source>
     <message>
         <source>Unique &amp;records only</source>
         <translation>选择不重复的记录(&amp;R)</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgAddIns</name>
+    <message>
+        <source>Add-Ins</source>
+        <translation>加载宏</translation>
+    </message>
+    <message>
+        <source>&amp;Add-Ins available:</source>
+        <translation>可用加载宏(&amp;A):</translation>
+    </message>
+    <message>
+        <source>&amp;Browse...</source>
+        <translation>浏览(&amp;B)...</translation>
+    </message>
+    <message>
+        <source>A&amp;utomation...</source>
+        <translation>自动化(&amp;U)...</translation>
     </message>
 </context>
 <context>
@@ -2436,7 +2625,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Force to recalculate after opening Spreadsheets</source>
-        <translation>打开文件后强制重算(&amp;F)</translation>
+        <translation type="obsolete">打开文件后强制重算(&amp;F)</translation>
     </message>
     <message>
         <source>&amp;Formula bar</source>
@@ -3005,6 +3194,10 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>New Doc&amp;ument</source>
         <translation type="unfinished">新建文档(&amp;u)</translation>
+    </message>
+    <message>
+        <source>Set decimal symbol to ,</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3692,11 +3885,11 @@ change tracking from being removed.</source>
     </message>
     <message>
         <source>Use AutoFilter</source>
-        <translation type="unfinished"></translation>
+        <translation>使用自动筛选</translation>
     </message>
     <message>
         <source>Use PrivoTable reports</source>
-        <translation type="unfinished"></translation>
+        <translation>使用数据透视表</translation>
     </message>
 </context>
 <context>
@@ -3958,6 +4151,10 @@ the same time allows workbook merging</source>
         <source>Using this &amp;workbook:</source>
         <translation>正在使用本工作簿的用户(&amp;W):</translation>
     </message>
+    <message>
+        <source>&amp;Export xls...</source>
+        <translation>导出为xls(&amp;E)...</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgSort</name>
@@ -4121,7 +4318,7 @@ the same time allows workbook merging</source>
     </message>
     <message>
         <source>&amp;Set Spell language</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">设置拼写检查语言</translation>
     </message>
 </context>
 <context>
@@ -4902,7 +5099,7 @@ protected.</source>
     <name>KxEtBorderWidget</name>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished">自动</translation>
+        <translation>自动</translation>
     </message>
 </context>
 <context>
@@ -5161,20 +5358,20 @@ protected.</source>
 <context>
     <name>KxEtSheetTabBar</name>
     <message>
+        <source>Before Sheet</source>
+        <translation>前一工作表</translation>
+    </message>
+    <message>
+        <source>Bellow Sheet</source>
+        <translation>后一工作表</translation>
+    </message>
+    <message>
         <source>More Sheets...</source>
         <translation>其他工作表...</translation>
     </message>
     <message>
         <source>New Sheet</source>
         <translation>新建工作表</translation>
-    </message>
-    <message>
-        <source>Before Sheet</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Bellow Sheet</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6208,6 +6405,10 @@ file, then %2switch%3the file to ET shared workbook.</source>
         <source>dictionary file(*.dic)|*.dic|All files(*)|*</source>
         <translation type="obsolete">词典文件(*.dic)|*.dic|所有文件(*)|*</translation>
     </message>
+    <message>
+        <source>The changes to decimal symbol won&apos;t take effect until you quit and then restart Kingsoft Spreadsheets.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxPageSetupDlg</name>
@@ -6618,7 +6819,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <name>KxProtectionWidget</name>
     <message>
         <source>Locking cells or hiding formulas has no effect until you protect the worksheet(Review tab,Proctect Sheet Button.)</source>
-        <translation type="unfinished"></translation>
+        <translation>只有保护工作表（在“审阅”选项卡中，点击“保护工作表”按钮）后，锁定单元格或隐藏公式才有效。</translation>
     </message>
 </context>
 <context>
@@ -6810,6 +7011,123 @@ automatically, and only one row can be kept.
     <message>
         <source>pt</source>
         <translation>磅</translation>
+    </message>
+</context>
+<context>
+    <name>KxSolverOptionsDlg</name>
+    <message>
+        <source>Precision must be a small positive number.</source>
+        <translation>精确度必须是较小的正数。</translation>
+    </message>
+    <message>
+        <source>Integer Tolerance must be a small positive number.</source>
+        <translation>整数允许误差必须是较小的正数。</translation>
+    </message>
+    <message>
+        <source>Maximum time must be a positive integer.</source>
+        <translation type="obsolete">最大时间必须为正数。</translation>
+    </message>
+    <message>
+        <source>Iterations must be a positive integer.</source>
+        <translation>迭代值必须是正整数。</translation>
+    </message>
+    <message>
+        <source>Convergence must be a small positive number.</source>
+        <translation>收敛度必须是较小的正数。</translation>
+    </message>
+    <message>
+        <source>Sample Size must be a number.</source>
+        <translation>样本大小必须为数字。</translation>
+    </message>
+    <message>
+        <source>Random Seed must be a positive integer number.</source>
+        <translation>随机种子必须为正整数。</translation>
+    </message>
+    <message>
+        <source>The maximum number of subproblems must be a positive integer.</source>
+        <translation>最大子问题数目必须是正整数。</translation>
+    </message>
+    <message>
+        <source>The maximum number of feasible solution must be a positive integer.</source>
+        <translation>最大可行解数目必须是正整数。</translation>
+    </message>
+</context>
+<context>
+    <name>KxSolverParaDlg</name>
+    <message>
+        <source>GRG Nonlinear</source>
+        <translation>非线性 GRG</translation>
+    </message>
+    <message>
+        <source>No Constraints to change.</source>
+        <translation>无约束可改变。</translation>
+    </message>
+    <message>
+        <source>Objective Cell contents must be a formula.</source>
+        <translation>目标单元格内容必须是公式。</translation>
+    </message>
+    <message>
+        <source>Objective Cell must be a single cell on the active sheet.</source>
+        <translation>目标单元格必须是活动工作表上的单个单元格。</translation>
+    </message>
+    <message>
+        <source>Problem to solve not specified.</source>
+        <translation>未指定欲求解的问题。</translation>
+    </message>
+    <message>
+        <source>Reset all Solver options and cell selections?</source>
+        <translation>重新设置所有规划求解选项及单元格选定区域？</translation>
+    </message>
+    <message>
+        <source>Select the GRG Nonlinear engine for Solver Problems that are smooth nonlinear.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select the GRG Nonlinear engine for Solver Problems that are smooth nonlinear.Select the LP Simplex engine for linear Solver Problems.</source>
+        <translation type="obsolete">为光滑非线性规划求解问题选择 GRG 非线性引擎，为线性规划求解问题选择单纯线性规划引擎。</translation>
+    </message>
+    <message>
+        <source>Select the LP Simplex engine for linear Solver Problems.</source>
+        <translation>为线性规划求解问题选择单纯线性规划引擎。</translation>
+    </message>
+    <message>
+        <source>Simplex LP</source>
+        <translation>单纯线性规划</translation>
+    </message>
+    <message>
+        <source>The reference you typed is not valid, or you did not provide a reference where one was required.</source>
+        <translation>输入的引用无效，或在需要引用处没有输入引用。</translation>
+    </message>
+    <message>
+        <source>Too many Variable Cells.</source>
+        <translation>可变单元格太多。</translation>
+    </message>
+    <message>
+        <source>Variable Cells must be on the active sheet.</source>
+        <translation>可变单元格必须在活动工作表上。</translation>
+    </message>
+    <message>
+        <source>Your entry cannot be used. An integer or decimal number may be required.</source>
+        <translation>输入不正确。要求输入内容为整数或小数。</translation>
+    </message>
+    <message>
+        <source>binary</source>
+        <translation>二进制</translation>
+    </message>
+    <message>
+        <source>integer</source>
+        <translation>整数</translation>
+    </message>
+</context>
+<context>
+    <name>KxSolverResultDlg</name>
+    <message>
+        <source>Lower and upper bounds on variables allow no feasible solution.</source>
+        <translation>变量的下界和上界不允许可行解。</translation>
+    </message>
+    <message>
+        <source>Some upper bound on a Variable Cell is smaller than a lower bound on that same Variable Cell.</source>
+        <translation>可变单元格的某个上界小于同一可变单元格的下界。</translation>
     </message>
 </context>
 <context>
@@ -7802,7 +8120,7 @@ t</source>
         <source>&amp;Formula:</source>
         <translation>公式(&amp;F):</translation>
     </message>
-    <message id="0">
+    <message>
         <source>&amp;Minimum:</source>
         <translation>最小值(&amp;M):</translation>
     </message>
@@ -8453,6 +8771,372 @@ t</source>
     <message>
         <source>Ivory</source>
         <translation>象牙色</translation>
+    </message>
+    <message>
+        <source>Fail to convert %1 to Microsoft Excel 2003 shared workbook.
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Excel 2003 File (*.xls)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>integer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>binary</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add Constraint</source>
+        <translation>添加约束</translation>
+    </message>
+    <message>
+        <source>Change Constraint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Answer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sensitivity</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Limits</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keep Solver Solution</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click to accept the solution and place the resulting values in the adjustable cells..</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restore Original Values</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click to restore the original values in the adjustable cells.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reports</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Creates the type of report that you specify, and places each report on a separate sheet in the workbook.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solver found a solution.  All Constraints and optimality conditions are satisfied.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>When Simplex LP is used, this means Solver has found a global optimal solution.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stop chosen when the maximum iteration limit was reached.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solver has stopped before finding a globally optimal solution. The best found solution, if any, will be given.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Objective Cell values do not converge.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solver can make the Objective Cell as large (or small when minimizing) as it wants.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solver could not find a feasible solution.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solver can not find a point for which all Constraints are satisfied.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Users require the Solver stops.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The linearity conditions required by this LP Solver are not satisfied.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create a linearity report to see where the problem is.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The problem is too large for Solver to handle.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solver is limited to 200 Variable Cells and 100 Constraints, plus bounds on the Variable Cells.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solver encountered an error value in the Objective Cell or a Constraint cell.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>One of the cells in the worksheet became an error value when Solver tried certain values for the Variable Cells.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stop chosen when the maximum time limit was reached.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>There is not enough memory available to solve the problem.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solver requires more memory to solve this problem than is available on the machine.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error in model.  Please verify that all cells and Constraints are valid.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Perhaps some cells that are not Variable Cells are marked as Integer or Binary.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stop chosen when the maximum number of feasible solutions was reached.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stop chosen when the maximum number of integer subproblems was reached.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>SolverOptions</name>
+    <message>
+        <source>Options</source>
+        <translation>选项</translation>
+    </message>
+    <message>
+        <source>AllMethods</source>
+        <translation>所有方法</translation>
+    </message>
+    <message>
+        <source>Constraint Precision:</source>
+        <translation>约束精确度:</translation>
+    </message>
+    <message>
+        <source>Use Automatic Scaling</source>
+        <translation>使用自动缩放</translation>
+    </message>
+    <message>
+        <source>S&amp;how Iteration Results</source>
+        <translation>显示迭代结果</translation>
+    </message>
+    <message>
+        <source>Solving with Integer Constraints</source>
+        <translation>具有整数约束的求解</translation>
+    </message>
+    <message>
+        <source>Igno&amp;re Integer Constraints</source>
+        <translation>忽略整数约束</translation>
+    </message>
+    <message>
+        <source>I&amp;nteger Optimality(%):</source>
+        <translation>整数最优性(%):</translation>
+    </message>
+    <message>
+        <source>Solving Limits</source>
+        <translation>求解极限值</translation>
+    </message>
+    <message>
+        <source>Max &amp;Time(Second):</source>
+        <translation>最大时间(秒):</translation>
+    </message>
+    <message>
+        <source>I&amp;terations:</source>
+        <translation>迭代次数:</translation>
+    </message>
+    <message>
+        <source>Integer Constraints:</source>
+        <translation>整数约束:</translation>
+    </message>
+    <message>
+        <source>Max Subproblems:</source>
+        <translation>最大子问题数目:</translation>
+    </message>
+    <message>
+        <source>Max Feasible Solutions:</source>
+        <translation>最大可行解数目:</translation>
+    </message>
+    <message>
+        <source>GRG Nonlinear</source>
+        <translation>非线性 GRG</translation>
+    </message>
+    <message>
+        <source>Convergence:</source>
+        <translation>收敛:</translation>
+    </message>
+    <message>
+        <source>Derivatives</source>
+        <translation>派生</translation>
+    </message>
+    <message>
+        <source>Forward</source>
+        <translation>向前</translation>
+    </message>
+    <message>
+        <source>Central</source>
+        <translation>中心</translation>
+    </message>
+    <message>
+        <source>Multistart</source>
+        <translation>多初始点</translation>
+    </message>
+    <message>
+        <source>Use Multistart</source>
+        <translation>使用多初始点</translation>
+    </message>
+    <message>
+        <source>Population Size:</source>
+        <translation>总体大小:</translation>
+    </message>
+    <message>
+        <source>Random Seed:</source>
+        <translation>随机种子:</translation>
+    </message>
+    <message>
+        <source>Require Bounds on Variables</source>
+        <translation>需要提供变量的界限</translation>
+    </message>
+</context>
+<context>
+    <name>SolverParameters</name>
+    <message>
+        <source>SolverParameters</source>
+        <translation>规划求解参数</translation>
+    </message>
+    <message>
+        <source>Se&amp;t Objective:</source>
+        <translation>设置目标(&amp;T):</translation>
+    </message>
+    <message>
+        <source>To:</source>
+        <translation>到:</translation>
+    </message>
+    <message>
+        <source>&amp;Max</source>
+        <translation>最大值(&amp;M)</translation>
+    </message>
+    <message>
+        <source>Mi&amp;n</source>
+        <translation>最小值(&amp;N)</translation>
+    </message>
+    <message>
+        <source>&amp;Value Of:</source>
+        <translation>目标值(&amp;V):</translation>
+    </message>
+    <message>
+        <source>&amp;By Changing Variable Cells:</source>
+        <translation>通过更改可变单元格(&amp;B):</translation>
+    </message>
+    <message>
+        <source>S&amp;ubject to the Constraint:</source>
+        <translation>遵守约束(&amp;U):</translation>
+    </message>
+    <message>
+        <source>&amp;Add</source>
+        <translation>添加(&amp;A)</translation>
+    </message>
+    <message>
+        <source>&amp;Change</source>
+        <translation>更改(&amp;C)</translation>
+    </message>
+    <message>
+        <source>&amp;Delete</source>
+        <translation>删除(&amp;D)</translation>
+    </message>
+    <message>
+        <source>&amp;ResetAll</source>
+        <translation>全部重置(&amp;R)</translation>
+    </message>
+    <message>
+        <source>&amp;Make Unconstrained Variables Non-Negative</source>
+        <translation>使无约束变量为非负数(&amp;K)</translation>
+    </message>
+    <message>
+        <source>Select a Solving M&amp;ethod:</source>
+        <translation>选择求解方法(&amp;E):</translation>
+    </message>
+    <message>
+        <source>O&amp;ptions</source>
+        <translation>选项(&amp;P)</translation>
+    </message>
+    <message>
+        <source>Solving Method</source>
+        <translation>求解方法</translation>
+    </message>
+    <message>
+        <source>Briefly</source>
+        <translation>简述</translation>
+    </message>
+    <message>
+        <source>&amp;Solve</source>
+        <translation>求解(&amp;S)</translation>
+    </message>
+    <message>
+        <source>Cl&amp;ose</source>
+        <translation>关闭(&amp;O)</translation>
+    </message>
+</context>
+<context>
+    <name>SolverResult</name>
+    <message>
+        <source>&amp;Keep Solver Solution</source>
+        <translation>保留规划求解的解</translation>
+    </message>
+    <message>
+        <source>&amp;Restore Original Values</source>
+        <translation>还原初值</translation>
+    </message>
+    <message>
+        <source>Content</source>
+        <translation>内容</translation>
+    </message>
+    <message>
+        <source>O&amp;utline Reports</source>
+        <translation>制作报告大纲</translation>
+    </message>
+    <message>
+        <source>R&amp;eturn to Solver Parameters Dialog</source>
+        <translation>返回&quot;规划求解参数&quot;对话框</translation>
+    </message>
+    <message>
+        <source>Reports</source>
+        <translation>报告</translation>
+    </message>
+    <message>
+        <source>Result</source>
+        <translation>结果</translation>
+    </message>
+    <message>
+        <source>SaveProject</source>
+        <translation>保存工程</translation>
+    </message>
+    <message>
+        <source>SolverResults</source>
+        <translation>规划求解结果</translation>
     </message>
 </context>
 <context>
