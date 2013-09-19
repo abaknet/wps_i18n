@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="sl_SI">
 <defaultcodec>UTF-8</defaultcodec>
@@ -581,6 +581,10 @@
         <translation>V vrstici z besedilom</translation>
     </message>
     <message>
+        <source>Insert Clip Art</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Picture</source>
         <translation>Vstavi sliko</translation>
     </message>
@@ -647,6 +651,10 @@
     <message>
         <source>Nudge</source>
         <translation>Pomakni</translation>
+    </message>
+    <message>
+        <source>Object Select</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Order</source>
@@ -1156,8 +1164,7 @@
     <message>
         <source>Merge
 to Email</source>
-        <translation type="unfinished">Spoji
-v e-pošto</translation>
+        <translation>Spoji v e-pošto</translation>
     </message>
     <message>
         <source>Merge to
@@ -1227,7 +1234,7 @@ spojene podatke</translation>
     </message>
     <message>
         <source>Show First Line Only</source>
-        <translation>Prikaži samo prvo vrstico</translation>
+        <translation>Pokaži samo prvo vrstico</translation>
     </message>
     <message>
         <source>Show Level</source>
@@ -1239,7 +1246,7 @@ spojene podatke</translation>
     </message>
     <message>
         <source>Show Text Formatting</source>
-        <translation>Pokaži oblikovanje besedila </translation>
+        <translation>Pokaži oblikovanje besedila</translation>
     </message>
     <message>
         <source>Update ToC</source>
@@ -1504,7 +1511,7 @@ spojene podatke</translation>
     </message>
     <message>
         <source>Show the Revisor Information in the Balloon</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaži informacije revizorja v oblačku</translation>
     </message>
     <message>
         <source>Track Changes</source>
@@ -1575,6 +1582,10 @@ spojene podatke</translation>
     <message>
         <source>Convert to Traditional Chinese</source>
         <translation>Pretvori v tradicionalno kitajščino</translation>
+    </message>
+    <message>
+        <source>EnterpriseMicroblog</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Equation</source>
@@ -1693,7 +1704,7 @@ spojene podatke</translation>
     </message>
     <message>
         <source>true</source>
-        <translation>true</translation>
+        <translation type="obsolete">true</translation>
     </message>
 </context>
 <context>
@@ -2149,16 +2160,24 @@ spojene podatke</translation>
     <message>
         <source>Draw
 Diagonal Line in Cell</source>
-        <translation>Nariši
+        <translation type="obsolete">Nariši
 diagonalno črto v celico</translation>
     </message>
     <message>
         <source>Draw Diagonal Line in Cell</source>
-        <translation>Nariši diagonalno črto v celico</translation>
+        <translation type="obsolete">Nariši diagonalno črto v celico</translation>
+    </message>
+    <message>
+        <source>Draw MutidiagonalCell</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Draw Table</source>
         <translation>Nariši tabelo</translation>
+    </message>
+    <message>
+        <source>DrawMutidiagonalCell</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Eraser</source>
@@ -2194,7 +2213,11 @@ diagonalno črto v celico</translation>
     </message>
     <message>
         <source>Table Styles</source>
-        <translation>Slogi tabel</translation>
+        <translation type="obsolete">Slogi tabel</translation>
+    </message>
+    <message>
+        <source>TableStyle</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2561,7 +2584,7 @@ On</source>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation>Prehodno</translation>
+        <translation>Preliv</translation>
     </message>
     <message>
         <source>Grid</source>
@@ -2586,6 +2609,10 @@ On</source>
     <message>
         <source>Horizontal</source>
         <translation>Vodoravno</translation>
+    </message>
+    <message>
+        <source>Horizontal Text Box</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>In Front of Text</source>
@@ -2800,6 +2827,10 @@ On</source>
         <translation>Navpično</translation>
     </message>
     <message>
+        <source>Vertical Text Box</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Weight</source>
         <translation>Debelina</translation>
     </message>
@@ -2817,6 +2848,10 @@ On</source>
     <message>
         <source>Backup Management</source>
         <translation>Upravljanje z varnostnimi kopijami</translation>
+    </message>
+    <message>
+        <source>Change Version</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Document Protection and Properties</source>
@@ -2877,6 +2912,10 @@ On</source>
     <message>
         <source>KingsoftOffice</source>
         <translation>KingsoftOffice</translation>
+    </message>
+    <message>
+        <source>Microsoft Word 2007-2013 Document</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Microsoft Word 97-2003 Document</source>
@@ -2943,6 +2982,10 @@ On</source>
         <translation>Lastnosti</translation>
     </message>
     <message>
+        <source>Purchase Serial Number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Reload</source>
         <translation>Znova naloži</translation>
     </message>
@@ -2972,7 +3015,7 @@ On</source>
     </message>
     <message>
         <source>StudyOnline</source>
-        <translation>Študiraj na spletu</translation>
+        <translation type="obsolete">Študiraj na spletu</translation>
     </message>
     <message>
         <source>Update Online</source>
@@ -3001,6 +3044,10 @@ On</source>
         <translation>Samobesedilo</translation>
     </message>
     <message>
+        <source>Clip Art</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Close</source>
         <translation>Zapri</translation>
     </message>
@@ -3023,6 +3070,10 @@ On</source>
     <message>
         <source>Insert</source>
         <translation>Vstavi</translation>
+    </message>
+    <message>
+        <source>Insert Clip Art</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -3256,6 +3307,11 @@ On</source>
         <translation>Velikost pisave</translation>
     </message>
     <message>
+        <source>Format
+Painter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Format Painter</source>
         <translation>Preslikovalnik oblik</translation>
     </message>
@@ -3270,6 +3326,10 @@ On</source>
     <message>
         <source>Highlight</source>
         <translation>Označi</translation>
+    </message>
+    <message>
+        <source>Home Object Select</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Increase Indent</source>
@@ -3365,7 +3425,7 @@ On</source>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>Podokno izbire</translation>
+        <translation type="obsolete">Podokno izbire</translation>
     </message>
     <message>
         <source>Set Default Paste</source>
@@ -3436,7 +3496,7 @@ On</source>
     </message>
     <message>
         <source>Number</source>
-        <translation>Oštevilči</translation>
+        <translation>Število</translation>
     </message>
 </context>
 <context>
@@ -3550,6 +3610,22 @@ On</source>
         <translation>Vstavi slikovni izrezek</translation>
     </message>
     <message>
+        <source>Insert Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Picture From File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Picture From Scan</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Scan</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Links</source>
         <translation>Povezave</translation>
     </message>
@@ -3600,6 +3676,11 @@ On</source>
     <message>
         <source>Shapes</source>
         <translation>Oblike</translation>
+    </message>
+    <message>
+        <source>Sym
+bol</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Symbol</source>
@@ -3807,7 +3888,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Show First Line Only</source>
-        <translation>Prikaži samo prvo vrstico</translation>
+        <translation>Pokaži samo prvo vrstico</translation>
     </message>
     <message>
         <source>Show Formatting</source>
@@ -3950,7 +4031,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation>Prehodno</translation>
+        <translation>Preliv</translation>
     </message>
     <message>
         <source>Grid</source>
@@ -4067,6 +4148,10 @@ Different New Document</source>
     <message>
         <source>Rotate Right 90°</source>
         <translation>Vrtenje v desno za 90°</translation>
+    </message>
+    <message>
+        <source>Rotate Style</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Selection Pane</source>
@@ -4511,7 +4596,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation>Prehodno</translation>
+        <translation>Preliv</translation>
     </message>
     <message>
         <source>Grayscale</source>
@@ -5125,7 +5210,7 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>Show Reviewer Information in the Balloon</source>
-        <translation type="unfinished">žžžž</translation>
+        <translation>Pokaži informacije pregledovalca v oblačku</translation>
     </message>
     <message>
         <source>Show Revisions in Balloons</source>
@@ -5172,7 +5257,11 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>Podrobne nastavitve</translation>
+        <translation type="obsolete">Podrobne nastavitve</translation>
+    </message>
+    <message>
+        <source>DetailedSettings</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Different First Page</source>
@@ -5192,11 +5281,11 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>Insert Section After</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavi odsek po</translation>
     </message>
     <message>
         <source>Insert Section Before</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavi odsek pred</translation>
     </message>
     <message>
         <source>Last Section</source>
@@ -5216,7 +5305,7 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>Locate to Section</source>
-        <translation type="unfinished"></translation>
+        <translation>Poišči do odseka</translation>
     </message>
     <message>
         <source>More Columns</source>
@@ -5256,11 +5345,11 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>Page Number Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Začetna številka strani</translation>
     </message>
     <message>
         <source>Page Number Start:</source>
-        <translation type="unfinished"></translation>
+        <translation>Začetna številka strani:</translation>
     </message>
     <message>
         <source>Page Setup</source>
@@ -5272,39 +5361,39 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>Restart Page Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Znova začni številko strani</translation>
     </message>
     <message>
         <source>Section Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Upravitelj odseka</translation>
     </message>
     <message>
         <source>Section Navigation</source>
-        <translation type="unfinished"></translation>
+        <translation>Krmarjenje odseka</translation>
     </message>
     <message>
         <source>Show / Hide Section Navigation</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaži / skrij krmarjenje odseka</translation>
     </message>
     <message>
         <source>Show First Page Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaži številko prve strani</translation>
     </message>
     <message>
         <source>Show Header Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaži glavo vrstice</translation>
     </message>
     <message>
         <source>Split Section</source>
-        <translation type="unfinished"></translation>
+        <translation>Razdeli odsek</translation>
     </message>
     <message>
         <source>Three</source>
-        <translation type="unfinished"></translation>
+        <translation>Tri</translation>
     </message>
     <message>
         <source>Two</source>
-        <translation type="unfinished"></translation>
+        <translation>Dva</translation>
     </message>
 </context>
 <context>
@@ -5727,7 +5816,7 @@ On/Off</source>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>Podrobne nastavitve</translation>
+        <translation type="obsolete">Podrobne nastavitve</translation>
     </message>
     <message>
         <source>Distribute Columns Evenly</source>
@@ -5938,6 +6027,10 @@ Cells</source>
         <translation>Razporedi vse</translation>
     </message>
     <message>
+        <source>COM Add-Ins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Cascade</source>
         <translation>V kaskado</translation>
     </message>
@@ -5953,6 +6046,10 @@ Other Windows</source>
     <message>
         <source>Close Window</source>
         <translation>Zapri okno</translation>
+    </message>
+    <message>
+        <source>Compared Side By Side</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Developer</source>
@@ -6052,7 +6149,7 @@ Other Windows</source>
     </message>
     <message>
         <source>Switch Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Preklopi okno</translation>
     </message>
     <message>
         <source>Synchronous Scrolling</source>
@@ -6060,7 +6157,7 @@ Other Windows</source>
     </message>
     <message>
         <source>Task Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Okno opravil</translation>
     </message>
     <message>
         <source>Two Pages</source>
@@ -6071,8 +6168,12 @@ Other Windows</source>
         <translation>Razporedi navpično</translation>
     </message>
     <message>
+        <source>View Side By Side</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>View Side by Side</source>
-        <translation>Vzporeden pogled</translation>
+        <translation type="obsolete">Vzporeden pogled</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
@@ -6692,7 +6793,7 @@ On</source>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation type="unfinished"></translation>
+        <translation>Preliv</translation>
     </message>
     <message>
         <source>Grid</source>
@@ -6772,7 +6873,7 @@ On</source>
     </message>
     <message>
         <source>Object Select</source>
-        <translation type="unfinished"></translation>
+        <translation>Predmet izbira</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -6975,83 +7076,83 @@ On</source>
     <name>ongmani.ct_workspace</name>
     <message>
         <source>Auto Backup</source>
-        <translation type="unfinished"></translation>
+        <translation>Samodejno varnostno kopiranje</translation>
     </message>
     <message>
         <source>Cloud feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>Povratne informacije oblaka</translation>
     </message>
     <message>
         <source>Explore Backup Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Razišči imenik z varnostnimi kopijami</translation>
     </message>
     <message>
         <source>Explore Backup Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Razišči varnostne različice</translation>
     </message>
     <message>
         <source>Export as Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Izvozi kot sliko</translation>
     </message>
     <message>
         <source>File Auto Backup</source>
-        <translation type="unfinished"></translation>
+        <translation>Samodejno varnostno kopiranje datotek</translation>
     </message>
     <message>
         <source>KOS My account</source>
-        <translation type="unfinished"></translation>
+        <translation>Moj račun za KOS</translation>
     </message>
     <message>
         <source>KOS My account tip</source>
-        <translation type="unfinished"></translation>
+        <translation>Moj račun za KOS namig</translation>
     </message>
     <message>
         <source>KOS User cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>Oblak uporabnika za KOS</translation>
     </message>
     <message>
         <source>KOS User cloud tip</source>
-        <translation type="unfinished"></translation>
+        <translation>Oblak uporabnika za KOS namig</translation>
     </message>
     <message>
         <source>KOS User guid</source>
-        <translation type="unfinished"></translation>
+        <translation>guid uporabnika za KOS</translation>
     </message>
     <message>
         <source>KOS User guid tip</source>
-        <translation type="unfinished"></translation>
+        <translation>guid uporabnika za KOS namig</translation>
     </message>
     <message>
         <source>KOS User login</source>
-        <translation type="unfinished"></translation>
+        <translation>Prijava uporabnika za KOS</translation>
     </message>
     <message>
         <source>Laboratory</source>
-        <translation type="unfinished"></translation>
+        <translation>Laboratorij</translation>
     </message>
     <message>
         <source>Manual Backup</source>
-        <translation type="unfinished"></translation>
+        <translation>Načrtovana varnostna kopija</translation>
     </message>
     <message>
         <source>Not Logged in</source>
-        <translation type="unfinished"></translation>
+        <translation>Niste prijavljeni</translation>
     </message>
     <message>
         <source>Open from Cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>Odpri iz oblaka</translation>
     </message>
     <message>
         <source>Save File to Cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>Shrani datoteko v oblak</translation>
     </message>
     <message>
         <source>Stop Auto Backup</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustavi samodejno varnostno kopiranje</translation>
     </message>
     <message>
         <source>User Guide</source>
-        <translation type="unfinished"></translation>
+        <translation>Navodila</translation>
     </message>
     <message>
         <source>WorkSpace_Backup</source>
@@ -7059,15 +7160,15 @@ On</source>
     </message>
     <message>
         <source>login</source>
-        <translation type="unfinished"></translation>
+        <translation>Prijava</translation>
     </message>
     <message>
         <source>openwebweibo</source>
-        <translation type="unfinished"></translation>
+        <translation>Odpri spletni Weibo</translation>
     </message>
     <message>
         <source>weiboshare</source>
-        <translation type="unfinished"></translation>
+        <translation>Weibo skupna raba</translation>
     </message>
     <message>
         <source>weibotool</source>
@@ -7082,1124 +7183,1136 @@ On</source>
     <name>popupmenu</name>
     <message>
         <source>0 More Histories</source>
-        <translation type="unfinished"></translation>
+        <translation>0 več zgodovine</translation>
     </message>
     <message>
         <source>About Kingsoft Writer</source>
-        <translation type="unfinished"></translation>
+        <translation>O Kingsoft Writer</translation>
     </message>
     <message>
         <source>Accept Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprejmi brisanje</translation>
     </message>
     <message>
         <source>Accept Formatting Changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprejmi spremembe oblikovanja</translation>
     </message>
     <message>
         <source>Accept Insertion</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprejmi vstavljanje</translation>
     </message>
     <message>
         <source>Activate Kingsoft Office</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktiviraj Kingsoft Office</translation>
     </message>
     <message>
         <source>Add Point</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj točko</translation>
     </message>
     <message>
         <source>Add Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj besedilo</translation>
     </message>
     <message>
         <source>Add to Dictionary</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj v slovar</translation>
     </message>
     <message>
         <source>Asian Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Azijska postavitev</translation>
     </message>
     <message>
         <source>Auto Backup</source>
-        <translation type="unfinished"></translation>
+        <translation>Samodejno varnostno kopiranje</translation>
     </message>
     <message>
         <source>Auto Point</source>
-        <translation type="unfinished"></translation>
+        <translation>Samodejna točka</translation>
     </message>
     <message>
         <source>AutoFit</source>
-        <translation type="unfinished"></translation>
+        <translation>Samoprilagodi</translation>
     </message>
     <message>
         <source>AutoFit to Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Samodejno prilagodi oknu</translation>
     </message>
     <message>
         <source>Average</source>
-        <translation type="unfinished"></translation>
+        <translation>Povprečje</translation>
     </message>
     <message>
         <source>Backup Management</source>
-        <translation type="unfinished"></translation>
+        <translation>Upravljanje z varnostnimi kopijami</translation>
     </message>
     <message>
         <source>Blank Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Prazna stran</translation>
     </message>
     <message>
         <source>Borders and Shading</source>
-        <translation type="unfinished"></translation>
+        <translation>Obrobe in senčenje</translation>
     </message>
     <message>
         <source>Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Prelom</translation>
     </message>
     <message>
         <source>Break Forward Link</source>
-        <translation type="unfinished"></translation>
+        <translation>Prekini povezavo naprej</translation>
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation type="unfinished"></translation>
+        <translation>Postavi naprej</translation>
     </message>
     <message>
         <source>Bring in Front of Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Postavi pred besedilo</translation>
     </message>
     <message>
         <source>Bring to Front</source>
-        <translation type="unfinished"></translation>
+        <translation>Postavi v ospredje</translation>
     </message>
     <message>
         <source>Bullets and Numbering</source>
-        <translation type="unfinished"></translation>
+        <translation>Označevanje in oštevilčevanje</translation>
     </message>
     <message>
         <source>COM AddIns</source>
-        <translation type="unfinished"></translation>
+        <translation>COM dodatki</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Prekliči</translation>
     </message>
     <message>
         <source>Caption</source>
-        <translation type="unfinished"></translation>
+        <translation>Napis</translation>
     </message>
     <message>
         <source>Cascade</source>
-        <translation type="unfinished"></translation>
+        <translation>V kaskado</translation>
     </message>
     <message>
         <source>Cell</source>
-        <translation type="unfinished"></translation>
+        <translation>Celica</translation>
     </message>
     <message>
         <source>Cell Alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>Poravnava celic</translation>
     </message>
     <message>
         <source>Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Celice</translation>
     </message>
     <message>
         <source>Center Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Središčni tabulator</translation>
     </message>
     <message>
         <source>Change Account</source>
-        <translation type="unfinished"></translation>
+        <translation>Spremeni račun</translation>
     </message>
     <message>
         <source>Change Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Spremeni sliko</translation>
     </message>
     <message>
         <source>Change User Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Spremeni informacije o uporabniku</translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Zamenjaj različico</translation>
     </message>
     <message>
         <source>Check Spelling As You Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Preverjaj črkovanje med vnašanjem</translation>
     </message>
     <message>
         <source>Chinese Translation</source>
+        <translation>Kitajsko prevod</translation>
+    </message>
+    <message>
+        <source>Clip Art</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Odložišče</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapri</translation>
     </message>
     <message>
         <source>Close All</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapri vse</translation>
     </message>
     <message>
         <source>Close Other Windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapri ostala okna</translation>
     </message>
     <message>
         <source>Close Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapri pot</translation>
     </message>
     <message>
         <source>Close Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapri okno</translation>
     </message>
     <message>
         <source>Cloud feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>Povratne informacije oblaka</translation>
     </message>
     <message>
         <source>Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Stolpec</translation>
     </message>
     <message>
         <source>Column Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Prelom stolpca</translation>
     </message>
     <message>
         <source>Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Stolpci</translation>
     </message>
     <message>
         <source>Columns to the Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Stolpce na levo</translation>
     </message>
     <message>
         <source>Columns to the Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Stolpce na desno</translation>
     </message>
     <message>
         <source>Combine Characters</source>
-        <translation type="unfinished"></translation>
+        <translation>Sestavi znake</translation>
     </message>
     <message>
         <source>Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Pripomba</translation>
     </message>
     <message>
         <source>Contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Vsebina</translation>
     </message>
     <message>
         <source>Continue Numbering</source>
-        <translation type="unfinished"></translation>
+        <translation>Nadaljuj oštevilčevanje</translation>
     </message>
     <message>
         <source>Continuous</source>
-        <translation type="unfinished"></translation>
+        <translation>Neprekinjeno</translation>
     </message>
     <message>
         <source>Continuous Section Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Neprekinjen prelom odseka</translation>
     </message>
     <message>
         <source>Control Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Nadzorni meni</translation>
     </message>
     <message>
         <source>Control Menu List</source>
-        <translation type="unfinished"></translation>
+        <translation>Seznam nadzorni meni</translation>
     </message>
     <message>
         <source>Convert</source>
-        <translation type="unfinished"></translation>
+        <translation>Pretvori</translation>
     </message>
     <message>
         <source>Convert Case</source>
-        <translation type="unfinished"></translation>
+        <translation>Pretvori velike in male črke</translation>
     </message>
     <message>
         <source>Convert Table to Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Pretvori tabelo v besedilo</translation>
     </message>
     <message>
         <source>Convert Text to Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Pretvori besedilo v tabelo</translation>
     </message>
     <message>
         <source>Convert to Endnote</source>
-        <translation type="unfinished"></translation>
+        <translation>Pretvori v končno opombo</translation>
     </message>
     <message>
         <source>Convert to Footnote</source>
-        <translation type="unfinished"></translation>
+        <translation>Pretvori v sprotno opombo</translation>
     </message>
     <message>
         <source>Copy Here</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiraj sem</translation>
     </message>
     <message>
         <source>Copy Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiraj hiperpovezavo</translation>
     </message>
     <message>
         <source>Corner Point</source>
-        <translation type="unfinished"></translation>
+        <translation>Vogalna točka</translation>
     </message>
     <message>
         <source>Create Text Box Link</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustvari povezavo s poljem z besedilom</translation>
     </message>
     <message>
         <source>Cross-reference</source>
-        <translation type="unfinished"></translation>
+        <translation>Navzkrižno sklicevanje</translation>
     </message>
     <message>
         <source>Curved Connector</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukrivljeni povezovalnik</translation>
     </message>
     <message>
         <source>Curved Segment</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukrivljen odsek</translation>
     </message>
     <message>
         <source>Data Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Podatkovni grafikon</translation>
     </message>
     <message>
         <source>Date and Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Datum in čas</translation>
     </message>
     <message>
         <source>Decimal Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Decimalni tabulator</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Izbriši</translation>
     </message>
     <message>
         <source>Delete Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Izbriši pripombo</translation>
     </message>
     <message>
         <source>Delete Page Numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>Izbriši številke strani</translation>
     </message>
     <message>
         <source>Delete Point</source>
-        <translation type="unfinished"></translation>
+        <translation>Izbriši točko</translation>
     </message>
     <message>
         <source>Delete Segment</source>
-        <translation type="unfinished"></translation>
+        <translation>Izbriši odsek</translation>
     </message>
     <message>
         <source>Distribute Columns Evenly</source>
-        <translation type="unfinished"></translation>
+        <translation>Enakomerno porazdeli stolpce</translation>
     </message>
     <message>
         <source>Distribute Rows Evenly</source>
-        <translation type="unfinished"></translation>
+        <translation>Enakomerno porazdeli vrstice</translation>
     </message>
     <message>
         <source>Do not Show Line Number for Blank Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne pokaži številko vrstice za prazno vrstico</translation>
     </message>
     <message>
         <source>Docer-Online Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Docer-spletne predloge</translation>
     </message>
     <message>
         <source>Document Map</source>
-        <translation type="unfinished"></translation>
+        <translation>Zgradba dokumenta</translation>
     </message>
     <message>
         <source>Document Protection</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaščita dokumenta</translation>
     </message>
     <message>
         <source>Draw
 Diagonal Line in Cell</source>
-        <translation type="unfinished"></translation>
+        <translation>Nariši diagonalno črto v celico</translation>
     </message>
     <message>
         <source>Draw Diagonal Line in Cell</source>
-        <translation type="unfinished"></translation>
+        <translation>Nariši diagonalno črto v celico</translation>
     </message>
     <message>
         <source>Draw Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Nariši tabelo</translation>
     </message>
     <message>
         <source>Drop Cap</source>
-        <translation type="unfinished"></translation>
+        <translation>Ozaljšana začetnica</translation>
     </message>
     <message>
         <source>Edit Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Urejanje komentarja</translation>
     </message>
     <message>
         <source>Edit Field</source>
-        <translation type="unfinished"></translation>
+        <translation>Urejanje polja</translation>
     </message>
     <message>
         <source>Edit Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Urejanje hiperpovezave</translation>
     </message>
     <message>
         <source>Edit Points</source>
-        <translation type="unfinished"></translation>
+        <translation>Urejanje točk</translation>
     </message>
     <message>
         <source>Edit Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Urejanje besedila</translation>
     </message>
     <message>
         <source>Elbow Connector</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolenski povezovalnik</translation>
     </message>
     <message>
         <source>Enclose Characters</source>
-        <translation type="unfinished"></translation>
+        <translation>Postavi znake v oklepaje</translation>
     </message>
     <message>
         <source>Encrypt</source>
-        <translation type="unfinished"></translation>
+        <translation>Šifriraj</translation>
     </message>
     <message>
         <source>Equation</source>
-        <translation type="unfinished"></translation>
+        <translation>Enačba</translation>
     </message>
     <message>
         <source>Erase</source>
-        <translation type="unfinished"></translation>
+        <translation>Izbriši</translation>
     </message>
     <message>
         <source>Even Page Section Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Prelom odseka sode strani</translation>
     </message>
     <message>
         <source>Exit Edit Point</source>
-        <translation type="unfinished"></translation>
+        <translation>Izhod iz urejanja točke</translation>
     </message>
     <message>
         <source>Expand Paste Format Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Razširi obliko prilepljenega besedila</translation>
     </message>
     <message>
         <source>Expand Paste Matching Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Ujemajoče razširi obliko na prilepljeno</translation>
     </message>
     <message>
         <source>Expand Paste Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Razširi prilepljeno besedilo</translation>
     </message>
     <message>
         <source>Explore Backup Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Razišči imenik z varnostnimi kopijami</translation>
     </message>
     <message>
         <source>Explore Backup Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Razišči varnostne različice</translation>
     </message>
     <message>
         <source>Export as Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Izvozi kot sliko</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation type="unfinished"></translation>
+        <translation>Izvozi v PDF</translation>
     </message>
     <message>
         <source>Fast Calculation</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiter izračun</translation>
     </message>
     <message>
         <source>Feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>Povratne informacije</translation>
     </message>
     <message>
         <source>Fields</source>
-        <translation type="unfinished"></translation>
+        <translation>Polja</translation>
     </message>
     <message>
         <source>File Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Predmet datoteke</translation>
     </message>
     <message>
         <source>First Line Indent</source>
-        <translation type="unfinished"></translation>
+        <translation>Zamik prve vrstice</translation>
     </message>
     <message>
         <source>Footer Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Noga na sredini</translation>
     </message>
     <message>
         <source>Footer Inside</source>
-        <translation type="unfinished"></translation>
+        <translation>Noga znotraj</translation>
     </message>
     <message>
         <source>Footer Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Noga na levi</translation>
     </message>
     <message>
         <source>Footer Outside</source>
-        <translation type="unfinished"></translation>
+        <translation>Noga zunaj</translation>
     </message>
     <message>
         <source>Footer Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Noga na desni</translation>
     </message>
     <message>
         <source>Footnote</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprotna opomba</translation>
     </message>
     <message>
         <source>Footnotes</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprotne opombe</translation>
     </message>
     <message>
         <source>Form Field Option</source>
-        <translation type="unfinished"></translation>
+        <translation>Izbirno polje obrazca</translation>
     </message>
     <message>
         <source>Format Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Oblikuj predmet</translation>
     </message>
     <message>
         <source>Formats</source>
-        <translation type="unfinished"></translation>
+        <translation>Oblike</translation>
     </message>
     <message>
         <source>Formula</source>
-        <translation type="unfinished"></translation>
+        <translation>Formula</translation>
     </message>
     <message>
         <source>From File</source>
+        <translation>Iz datoteke</translation>
+    </message>
+    <message>
+        <source>From Scan</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Full Screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Celoten zaslon</translation>
     </message>
     <message>
         <source>Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>Galerija</translation>
     </message>
     <message>
         <source>Genko Setting</source>
-        <translation type="unfinished"></translation>
+        <translation>Genko nastavitev</translation>
     </message>
     <message>
         <source>Go to Endnote</source>
-        <translation type="unfinished"></translation>
+        <translation>Pojdi na končno opombo</translation>
     </message>
     <message>
         <source>Go to Footnote</source>
-        <translation type="unfinished"></translation>
+        <translation>Pojdi na sprotno opombo</translation>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation type="unfinished"></translation>
+        <translation>Preliv</translation>
     </message>
     <message>
         <source>Graphics</source>
-        <translation type="unfinished"></translation>
+        <translation>Grafike</translation>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation type="unfinished"></translation>
+        <translation>Mrežne črte</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Skupina</translation>
     </message>
     <message>
         <source>Grouping</source>
-        <translation type="unfinished"></translation>
+        <translation>Združevanje</translation>
     </message>
     <message>
         <source>Hanging Indent</source>
-        <translation type="unfinished"></translation>
+        <translation>Viseči zamik</translation>
     </message>
     <message>
         <source>Header Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Glava na sredini</translation>
     </message>
     <message>
         <source>Header Inside</source>
-        <translation type="unfinished"></translation>
+        <translation>Glava znotraj</translation>
     </message>
     <message>
         <source>Header Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Glava na levi</translation>
     </message>
     <message>
         <source>Header Outside</source>
-        <translation type="unfinished"></translation>
+        <translation>Glava zunaj</translation>
     </message>
     <message>
         <source>Header Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Glava na desni</translation>
     </message>
     <message>
         <source>Header/Footer</source>
-        <translation type="unfinished"></translation>
+        <translation>Glava/noga</translation>
     </message>
     <message>
         <source>Hide Paragraph Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Skrij postavitev odstavka</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Vodoravno</translation>
     </message>
     <message>
         <source>Horizontal Arrange</source>
-        <translation type="unfinished"></translation>
+        <translation>Razporedi vodoravno</translation>
     </message>
     <message>
         <source>Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiperpovezava</translation>
     </message>
     <message>
         <source>Ignore</source>
-        <translation type="unfinished"></translation>
+        <translation>Prezri</translation>
     </message>
     <message>
         <source>Insert</source>
+        <translation>Vstavi</translation>
+    </message>
+    <message>
+        <source>Insert Clip Art</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Multiple Rows</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavi več vrstic</translation>
     </message>
     <message>
         <source>Insert Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavi tabelo</translation>
     </message>
     <message>
         <source>Insert Text from File</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavi besedilo iz datoteke</translation>
     </message>
     <message>
         <source>Insert Watermark</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavi vodni žig</translation>
     </message>
     <message>
         <source>Invisible</source>
-        <translation type="unfinished"></translation>
+        <translation>Neviden</translation>
     </message>
     <message>
         <source>Kingsoft BBS</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft BBS</translation>
     </message>
     <message>
         <source>Kingsoft Office Community</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Office skupnost</translation>
     </message>
     <message>
         <source>Kingsoft Office Facebook</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Office Facebook</translation>
     </message>
     <message>
         <source>Kingsoft Office Homepage</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Office domača stran</translation>
     </message>
     <message>
         <source>Kingsoft Writer Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft Writer pomoč</translation>
     </message>
     <message>
         <source>Left Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Levi tabulator</translation>
     </message>
     <message>
         <source>Line Number Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Možnosti številke vrstice</translation>
     </message>
     <message>
         <source>Line Numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>Številke vrstic</translation>
     </message>
     <message>
         <source>Login</source>
-        <translation type="unfinished"></translation>
+        <translation>Prijava</translation>
     </message>
     <message>
         <source>Logout</source>
-        <translation type="unfinished"></translation>
+        <translation>Odjava</translation>
     </message>
     <message>
         <source>Macros</source>
-        <translation type="unfinished"></translation>
+        <translation>Makri</translation>
     </message>
     <message>
         <source>Mail Merge Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Orodna vrstica za spajanje dokumentov</translation>
     </message>
     <message>
         <source>Manual Backup</source>
-        <translation type="unfinished"></translation>
+        <translation>Načrtovana varnostna kopija</translation>
     </message>
     <message>
         <source>Markup</source>
-        <translation type="unfinished"></translation>
+        <translation>Oznaka</translation>
     </message>
     <message>
         <source>Max</source>
-        <translation type="unfinished"></translation>
+        <translation>Največ</translation>
     </message>
     <message>
         <source>Merge Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Spoji celice</translation>
     </message>
     <message>
         <source>Min</source>
-        <translation type="unfinished"></translation>
+        <translation>Najmanj</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Več barv polnil</translation>
     </message>
     <message>
         <source>Move Here</source>
-        <translation type="unfinished"></translation>
+        <translation>Premakni sem</translation>
     </message>
     <message>
         <source>New Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Novo okno</translation>
     </message>
     <message>
         <source>New from Other Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Novo iz ostalih predlog</translation>
     </message>
     <message>
         <source>Next Page Section Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Naslednji prelom odseka strani</translation>
     </message>
     <message>
         <source>Next Text Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Naslednje polje z besedilom</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Brez</translation>
     </message>
     <message>
         <source>Not Logged in</source>
-        <translation type="unfinished"></translation>
+        <translation>Niste prijavljeni</translation>
     </message>
     <message>
         <source>Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Število</translation>
     </message>
     <message>
         <source>Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Predmet</translation>
     </message>
     <message>
         <source>Odd Page Section Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Prelom odseka lihe strani</translation>
     </message>
     <message>
         <source>Open Backup Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Odpri imenik z varnostnimi kopijami</translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Odpri mapo</translation>
     </message>
     <message>
         <source>Open From Klive</source>
-        <translation type="unfinished"></translation>
+        <translation>Odpri iz Klive</translation>
     </message>
     <message>
         <source>Open Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Odpri hiperpovezavo</translation>
     </message>
     <message>
         <source>Open Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Odpri pot</translation>
     </message>
     <message>
         <source>Open from Cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>Odpri iz oblaka</translation>
     </message>
     <message>
         <source>Option</source>
-        <translation type="unfinished"></translation>
+        <translation>Možnost</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Možnosti</translation>
     </message>
     <message>
         <source>Order</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrstni red</translation>
     </message>
     <message>
         <source>Page Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Prelom strani</translation>
     </message>
     <message>
         <source>Page Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Barva strani</translation>
     </message>
     <message>
         <source>Page Numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>Številke strani</translation>
     </message>
     <message>
         <source>Page Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Priprava strani</translation>
     </message>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstavek</translation>
     </message>
     <message>
         <source>Paste Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Prilepi stolpec</translation>
     </message>
     <message>
         <source>Paste Special</source>
-        <translation type="unfinished"></translation>
+        <translation>Posebno lepljenje</translation>
     </message>
     <message>
         <source>Paste as Nest Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Prilepi kot ugnezdeno tabelo</translation>
     </message>
     <message>
         <source>Pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>Vzorec</translation>
     </message>
     <message>
         <source>Phonetic Guide</source>
-        <translation type="unfinished"></translation>
+        <translation>Fonetični vodnik</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Slika</translation>
     </message>
     <message>
         <source>Place on Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Postavi na levo</translation>
     </message>
     <message>
         <source>Place on Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Postavi na desno</translation>
     </message>
     <message>
         <source>Previous Text Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Prejšnje polje z besedilom</translation>
     </message>
     <message>
         <source>Print Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Postavitev tiskanja</translation>
     </message>
     <message>
         <source>Product Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Središče izdelkov</translation>
     </message>
     <message>
         <source>Product Management Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Središče upravljanja izdelkov</translation>
     </message>
     <message>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Lastnosti</translation>
     </message>
     <message>
         <source>Purchase Serial Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Nakup serijske številke</translation>
     </message>
     <message>
         <source>Reconvert</source>
-        <translation type="unfinished"></translation>
+        <translation>Znova pretvori</translation>
     </message>
     <message>
         <source>Reference</source>
-        <translation type="unfinished"></translation>
+        <translation>Sklic</translation>
     </message>
     <message>
         <source>Reject Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Zavrni brisanje</translation>
     </message>
     <message>
         <source>Reject Formating Changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Zavrni spremembe oblikovanja</translation>
     </message>
     <message>
         <source>Reject Insertion</source>
-        <translation type="unfinished"></translation>
+        <translation>Zavrni vstavljanje</translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation type="unfinished"></translation>
+        <translation>Znova naloži</translation>
     </message>
     <message>
         <source>Remove Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstrani hiperpovezavo</translation>
     </message>
     <message>
         <source>Remove Watermark</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstrani vodni žig</translation>
     </message>
     <message>
         <source>Repeat Headings</source>
-        <translation type="unfinished"></translation>
+        <translation>Ponovi naslove</translation>
     </message>
     <message>
         <source>Reset Paragraph Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Ponastavi obliko odstavka</translation>
     </message>
     <message>
         <source>Restart Each Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Začni znova na vsaki strani</translation>
     </message>
     <message>
         <source>Restart Each Section</source>
-        <translation type="unfinished"></translation>
+        <translation>Začni znova v vsakem odseku</translation>
     </message>
     <message>
         <source>Restart Numbering</source>
-        <translation type="unfinished"></translation>
+        <translation>Znova začni oštevilčevanje</translation>
     </message>
     <message>
         <source>Right Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Desni tabulator</translation>
     </message>
     <message>
         <source>Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrstica</translation>
     </message>
     <message>
         <source>Rows</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrstice</translation>
     </message>
     <message>
         <source>Rows Above</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrstice zgoraj</translation>
     </message>
     <message>
         <source>Rows Below</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrstice spodaj</translation>
     </message>
     <message>
         <source>Ruler</source>
-        <translation type="unfinished"></translation>
+        <translation>Ravnilo</translation>
     </message>
     <message>
         <source>Save All</source>
-        <translation type="unfinished"></translation>
+        <translation>Shrani vse</translation>
     </message>
     <message>
         <source>Save File to Cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>Shrani datoteko v oblak</translation>
     </message>
     <message>
         <source>Save as Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Shrani kot sliko</translation>
     </message>
     <message>
         <source>Save to File</source>
-        <translation type="unfinished"></translation>
+        <translation>Shrani v datoteko</translation>
     </message>
     <message>
         <source>Save to Klive</source>
-        <translation type="unfinished"></translation>
+        <translation>Shrani v Klive</translation>
     </message>
     <message>
         <source>Security</source>
-        <translation type="unfinished"></translation>
+        <translation>Varnost</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation>Izberi</translation>
     </message>
     <message>
         <source>Select Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Izberi hiperpovezavo</translation>
     </message>
     <message>
         <source>Select Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Izberi tabelo</translation>
     </message>
     <message>
         <source>Select Table with Dashed Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Izberi tabelo s črtkanimi obrobami</translation>
     </message>
     <message>
         <source>Send Backward</source>
-        <translation type="unfinished"></translation>
+        <translation>Pošlji nazaj</translation>
     </message>
     <message>
         <source>Send Behind Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Pošlji za besedilo</translation>
     </message>
     <message>
         <source>Send E-mail</source>
-        <translation type="unfinished"></translation>
+        <translation>Pošlji e-pošto</translation>
     </message>
     <message>
         <source>Send to Back</source>
-        <translation type="unfinished"></translation>
+        <translation>Pošlji v ozadje</translation>
     </message>
     <message>
         <source>Set AutoShape Defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavi privzete samooblike</translation>
     </message>
     <message>
         <source>Share to Weibo</source>
-        <translation type="unfinished"></translation>
+        <translation>Skupna raba v Weibo</translation>
     </message>
     <message>
         <source>Show Footnote/Endnote Separator</source>
-        <translation type="unfinished"></translation>
+        <translation>Ločilo pokaži sprotno opombo/končno opombo</translation>
     </message>
     <message>
         <source>Show Ignored Words</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaži prezrte besede</translation>
     </message>
     <message>
         <source>Show More Windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaži več oken</translation>
     </message>
     <message>
         <source>Show Paragraph Marks</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaži oznake odstavka</translation>
     </message>
     <message>
         <source>Show or Hide Footnote/Endnote Separator</source>
-        <translation type="unfinished"></translation>
+        <translation>Ločilo pokaži ali skrij sprotno opombo/končno opombo</translation>
     </message>
     <message>
         <source>Smooth Point</source>
-        <translation type="unfinished"></translation>
+        <translation>Gladka točka</translation>
     </message>
     <message>
         <source>Spelling Suggestions</source>
-        <translation type="unfinished"></translation>
+        <translation>Predlogi črkovanja</translation>
     </message>
     <message>
         <source>Split Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Razdeli celice</translation>
     </message>
     <message>
         <source>Split Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Razdeli tabelo</translation>
     </message>
     <message>
         <source>Status Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrstica stanja</translation>
     </message>
     <message>
         <source>Stop Auto Backup</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustavi samodejno varnostno kopiranje</translation>
     </message>
     <message>
         <source>Straight Connector</source>
-        <translation type="unfinished"></translation>
+        <translation>Raven povezovalnik</translation>
     </message>
     <message>
         <source>Straight Point</source>
-        <translation type="unfinished"></translation>
+        <translation>Ravna točka</translation>
     </message>
     <message>
         <source>Straight Segment</source>
-        <translation type="unfinished"></translation>
+        <translation>Raven odsek</translation>
     </message>
     <message>
         <source>Study Online</source>
-        <translation type="unfinished"></translation>
+        <translation>Študiraj na spletu</translation>
     </message>
     <message>
         <source>StudyOnline</source>
-        <translation type="unfinished"></translation>
+        <translation>Študiraj na spletu</translation>
     </message>
     <message>
         <source>Styles and Formatting</source>
-        <translation type="unfinished"></translation>
+        <translation>Slogi in oblikovanje</translation>
     </message>
     <message>
         <source>Sum</source>
-        <translation type="unfinished"></translation>
+        <translation>Vsota</translation>
     </message>
     <message>
         <source>Suppress for Current Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>Prepreči na trenutnem odstavku</translation>
     </message>
     <message>
         <source>Symbol</source>
-        <translation type="unfinished"></translation>
+        <translation>Simbol</translation>
     </message>
     <message>
         <source>Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabela</translation>
     </message>
     <message>
         <source>Table Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Lastnosti tabele</translation>
     </message>
     <message>
         <source>Table Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Slog tabele</translation>
     </message>
     <message>
         <source>Table of Contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Kazalo vsebine</translation>
     </message>
     <message>
         <source>Tabs</source>
-        <translation type="unfinished"></translation>
+        <translation>Zavihki</translation>
     </message>
     <message>
         <source>Text Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Polje z besedilom</translation>
     </message>
     <message>
         <source>Text Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Usmerjenost besedila</translation>
     </message>
     <message>
         <source>Texture</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekstura</translation>
     </message>
     <message>
         <source>Two Lines in One</source>
-        <translation type="unfinished"></translation>
+        <translation>Dve vrstici v eni</translation>
     </message>
     <message>
         <source>Ungroup</source>
-        <translation type="unfinished"></translation>
+        <translation>Razdruži</translation>
     </message>
     <message>
         <source>Update Online</source>
-        <translation type="unfinished"></translation>
+        <translation>Posodobitev v spletu</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Navpično</translation>
     </message>
     <message>
         <source>Vertical Arrange</source>
-        <translation type="unfinished"></translation>
+        <translation>Razporedi navpično</translation>
     </message>
     <message>
         <source>View Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogled kode</translation>
     </message>
     <message>
         <source>View Gridlines</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogled mrežnih črt</translation>
     </message>
     <message>
         <source>View Side by Side</source>
-        <translation type="unfinished"></translation>
+        <translation>Vzporeden pogled</translation>
     </message>
     <message>
         <source>WPS Microblog</source>
@@ -8211,7 +8324,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Watermark</source>
-        <translation type="unfinished"></translation>
+        <translation>Vodni žig</translation>
     </message>
     <message>
         <source>Word Tools</source>
@@ -8227,11 +8340,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>login</source>
-        <translation type="unfinished"></translation>
+        <translation>Prijava</translation>
     </message>
     <message>
         <source>openwebweibo</source>
-        <translation type="unfinished"></translation>
+        <translation>Odpri spletni Weibo</translation>
     </message>
     <message>
         <source>wpsweibolayout</source>
@@ -8638,7 +8751,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation>Prehodno</translation>
+        <translation>Preliv</translation>
     </message>
     <message>
         <source>Grid</source>
@@ -8940,6 +9053,10 @@ Diagonal Line in Cell</source>
         <translation>Kingsoft Writer predloga </translation>
     </message>
     <message>
+        <source>Microsoft Word 2007-2013 Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Microsoft Word 97-2003 Document</source>
         <translation>Microsoft Word 97-2003 dokument</translation>
     </message>
@@ -9037,7 +9154,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>StudyOnline</source>
-        <translation>Študiraj na spletu</translation>
+        <translation type="obsolete">Študiraj na spletu</translation>
     </message>
     <message>
         <source>Update Online</source>
@@ -9617,6 +9734,18 @@ Header and Footer</source>
         <translation>Vstavi sliko</translation>
     </message>
     <message>
+        <source>Insert Picture From File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Picture From Scan</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Scan</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Table</source>
         <translation>Vstavi tabelo</translation>
     </message>
@@ -9888,7 +10017,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Show First Line Only</source>
-        <translation>Prikaži samo prvo vrstico</translation>
+        <translation>Pokaži samo prvo vrstico</translation>
     </message>
     <message>
         <source>Show Formatting</source>
@@ -10031,7 +10160,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation>Prehodno</translation>
+        <translation>Preliv</translation>
     </message>
     <message>
         <source>Grid</source>
@@ -10505,7 +10634,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation>Prehodno</translation>
+        <translation>Preliv</translation>
     </message>
     <message>
         <source>Grayscale</source>
@@ -11120,7 +11249,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Show Reviewer Information in the Balloon</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaži informacije pregledovalca v oblačku</translation>
     </message>
     <message>
         <source>Show Revisions in Balloons</source>
@@ -11187,11 +11316,11 @@ and Endnote</source>
     </message>
     <message>
         <source>Insert Section After</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavi odsek po</translation>
     </message>
     <message>
         <source>Insert Section Before</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavi odsek pred</translation>
     </message>
     <message>
         <source>Last Section</source>
@@ -11211,7 +11340,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Locate to Section</source>
-        <translation type="unfinished"></translation>
+        <translation>Poišči do odseka</translation>
     </message>
     <message>
         <source>More Columns</source>
@@ -11251,11 +11380,11 @@ and Endnote</source>
     </message>
     <message>
         <source>Page Number Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Začetna številka strani</translation>
     </message>
     <message>
         <source>Page Number Start:</source>
-        <translation type="unfinished"></translation>
+        <translation>Začetna številka strani:</translation>
     </message>
     <message>
         <source>Page Setup</source>
@@ -11267,7 +11396,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Restart Page Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Znova začni številko strani</translation>
     </message>
     <message>
         <source>Section Manager</source>
@@ -11287,7 +11416,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Show Header Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaži glavo vrstice</translation>
     </message>
     <message>
         <source>Split Section</source>
@@ -12591,7 +12720,7 @@ Other Window</source>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation>Prehodno</translation>
+        <translation>Preliv</translation>
     </message>
     <message>
         <source>Grid</source>
@@ -12874,7 +13003,7 @@ Other Window</source>
     </message>
     <message>
         <source>Cloud feedback</source>
-        <translation>Povratne informacije oblaka </translation>
+        <translation>Povratne informacije oblaka</translation>
     </message>
     <message>
         <source>Explore Backup Directory</source>
@@ -12902,11 +13031,11 @@ Other Window</source>
     </message>
     <message>
         <source>KOS My account</source>
-        <translation type="unfinished">KOS moj račun</translation>
+        <translation>Moj račun za KOS</translation>
     </message>
     <message>
         <source>KOS My account tip</source>
-        <translation type="unfinished"></translation>
+        <translation>Moj račun za KOS namig</translation>
     </message>
     <message>
         <source>Laboratory</source>
@@ -12922,7 +13051,7 @@ Other Window</source>
     </message>
     <message>
         <source>Not Logged in</source>
-        <translation type="unfinished">Niste prijavljeni</translation>
+        <translation>Niste prijavljeni</translation>
     </message>
     <message>
         <source>Online Documents</source>
@@ -12990,7 +13119,9 @@ Other Window</source>
         <source>Fill the selected 3-D shape with color.
 
 Click the arrow to select from different 3-D colors.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapolnite izbrano 3D obliko z barvo.
+
+Kliknite puščico, da izberete iz drugih 3D barv.</translation>
     </message>
 </context>
 <context>
@@ -13122,7 +13253,7 @@ Click the arrow to select from different 3-D colors.</source>
     <name>tips.AdjustTableProperties</name>
     <message>
         <source>Open the Table Properties dialog box.</source>
-        <translation>Odprite pogovorno okno lastnosti tabele</translation>
+        <translation>Odprite pogovorno okno »Lastnosti tabele«.</translation>
     </message>
     <message>
         <source>Table Properties</source>
@@ -13137,7 +13268,7 @@ Click the arrow to select from different 3-D colors.</source>
     </message>
     <message>
         <source>Center text and align it to the bottom of the cell.</source>
-        <translation>Usredini besedilo in poravnaj na dno celice.</translation>
+        <translation>Usredini besedilo in ga poravnajte v spodnji del celice.</translation>
     </message>
 </context>
 <context>
@@ -13170,7 +13301,7 @@ Click the arrow to select from different 3-D colors.</source>
     </message>
     <message>
         <source>Center text vertically and horizontally within the cell.</source>
-        <translation type="unfinished"></translation>
+        <translation>Navpično in vodoravno usredinite besedilo v celici.</translation>
     </message>
 </context>
 <context>
@@ -13192,18 +13323,18 @@ Click the arrow to select from different 3-D colors.</source>
     </message>
     <message>
         <source>Center text and align it to the right side of the cell.</source>
-        <translation type="unfinished"></translation>
+        <translation>Usredini besedilo in ga poravnajte na desno stran celice.</translation>
     </message>
 </context>
 <context>
     <name>tips.AlignStyle</name>
     <message>
         <source>AlignStyle Content</source>
-        <translation type="unfinished"></translation>
+        <translation>Poravnaj slog vsebine</translation>
     </message>
     <message>
         <source>AlignStyle Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Poravnaj slog naslova</translation>
     </message>
 </context>
 <context>
@@ -13265,7 +13396,7 @@ Click the arrow to select from different 3-D colors.</source>
     <name>tips.AutoAdjustRightIndent</name>
     <message>
         <source>Adjust Right Indent with grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Prilagodi desni zamik z mrežo</translation>
     </message>
     <message>
         <source>Automactically adjust the document right indent when the document grid is defined.
@@ -13289,7 +13420,7 @@ This option is available when grid is defined.</source>
     <name>tips.AutoVersion</name>
     <message>
         <source>Enable Auto Backup</source>
-        <translation type="unfinished"></translation>
+        <translation>Omogoči samodejno varnostno kopiranje</translation>
     </message>
     <message>
         <source>Enable auto backup for the current document, save backup file to File Safe each time the document is closed.</source>
@@ -13300,11 +13431,11 @@ This option is available when grid is defined.</source>
     <name>tips.Autobackup</name>
     <message>
         <source>A brief introduction to File Safe.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kratki uvod o varni datoteki.</translation>
     </message>
     <message>
         <source>File Safe</source>
-        <translation type="unfinished"></translation>
+        <translation>Varna datoteka</translation>
     </message>
 </context>
 <context>
@@ -13363,20 +13494,22 @@ This option is available when grid is defined.</source>
     </message>
     <message>
         <source>Click the arrow to choose different bullet styles.</source>
-        <translation type="unfinished"></translation>
+        <translation>Če želite izbrati drug slog oznake, kliknite puščico.</translation>
     </message>
     <message>
         <source>Start a bulleted list.
 
 Click the arrow to choose different bullet styles.</source>
-        <translation type="unfinished"></translation>
+        <translation>Začnite označen seznam.
+
+Če želite izbrati drug slog oznake, kliknite puščico.</translation>
     </message>
 </context>
 <context>
     <name>tips.COMAddIns</name>
     <message>
         <source>Add or delete available COM Add-Ins.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj ali izbriši dodatke COM, ki so na voljo.</translation>
     </message>
     <message>
         <source>Add-Ins</source>
@@ -13391,7 +13524,7 @@ Click the arrow to choose different bullet styles.</source>
     </message>
     <message>
         <source>Enter design mode to edit controls name and functions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstopite v način načrtovanja, da uredite imena kontrolnikov in funkcij.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
@@ -13425,7 +13558,7 @@ Click the arrow to choose different bullet styles.</source>
     </message>
     <message>
         <source>View and edit properties of selected Controls.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogled in urejanje lastnosti izbranih kontrolnikov.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
@@ -13436,7 +13569,7 @@ Click the arrow to choose different bullet styles.</source>
     <name>tips.CTB_ViewCode</name>
     <message>
         <source>Launch Visual Basic Editor to edit the code of the selected controls.</source>
-        <translation type="unfinished"></translation>
+        <translation>Če želite urejati kodo izbranih kontrolnikov zaženite Visual Basic Editor.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
@@ -13457,7 +13590,9 @@ Click the arrow to choose different bullet styles.</source>
         <source>Change all the selected text to UPPERCASE, lowercase or other common capitalizations.
 
 Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Border options.</source>
-        <translation type="unfinished"></translation>
+        <translation>Spremenite vso izbrano besedilo v VELIKE ČRKE, majhne črke ali v drugo običajno uporabo velikih začetnic.
+
+Kliknite puščico, če želite izbrati fonetični vodnik, postaviti znake v oklepaje in lastnosti obrobe znakov.</translation>
     </message>
     <message>
         <source>Convert Case</source>
@@ -13513,7 +13648,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     </message>
     <message>
         <source>Shade the selected text with gray color.</source>
-        <translation type="unfinished"></translation>
+        <translation>Osenči označeno besedilo s sivo barvo.</translation>
     </message>
 </context>
 <context>
@@ -13524,25 +13659,25 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     </message>
     <message>
         <source>Check the spelling of the text in the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Preveri črkovanje besedila v dokumentu.</translation>
     </message>
 </context>
 <context>
     <name>tips.Chinese Translation</name>
     <message>
         <source>Set Simplified to Traditional Chinese translation based upon the character or word.</source>
-        <translation type="unfinished"></translation>
+        <translation>Na podlagi znaka ali besede nastavi iz poenostavljene v tradicionalno kitajščino prevod.</translation>
     </message>
     <message>
         <source>Simplified to Traditional Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation>Poenostavljena v tradicionalno kitajščino.</translation>
     </message>
 </context>
 <context>
     <name>tips.CleanLineSpacing</name>
     <message>
         <source>Apply single line spacing to the selected paragraph and snap to the grid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uporabi razmik enojne črte za izbrane odstavke in pripni na mrežo.</translation>
     </message>
     <message>
         <source>Clean Line Spacing</source>
@@ -13557,7 +13692,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     </message>
     <message>
         <source>Clear all the formatting from the selection, leaving only the plain text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Iz izbora počistite vse oblikovanje tako, da ostane samo navadno besedilo.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
@@ -13576,14 +13711,14 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     </message>
     <message>
         <source>Clear table style of selected cell range.</source>
-        <translation type="unfinished"></translation>
+        <translation>Počisti slog tabele za izbran obseg celic.</translation>
     </message>
 </context>
 <context>
     <name>tips.CloseDevelopmentTools</name>
     <message>
         <source>Click here to hide Developer Tools.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kliknite tukaj, če želite skriti orodja za razvijalce.</translation>
     </message>
     <message>
         <source>Close</source>
@@ -13598,14 +13733,14 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     </message>
     <message>
         <source>Close Header and Footer Tools, and return to editing the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaprite orodja za glave in noge in se vrnite na urejanje dokumenta.</translation>
     </message>
 </context>
 <context>
     <name>tips.CloseMail</name>
     <message>
         <source>Click here to hide Mailings tab.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kliknite tukaj, če želite skriti zavihek pošiljanje.</translation>
     </message>
     <message>
         <source>Close</source>
@@ -13620,7 +13755,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     </message>
     <message>
         <source>Close all other windows except the current one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapri vsa ostala okna, razen trenutnega.</translation>
     </message>
 </context>
 <context>
@@ -13631,7 +13766,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     </message>
     <message>
         <source>Close Outline View and return to editing the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapri orisni pogled in se vrni na urejanje dokumenta.</translation>
     </message>
 </context>
 <context>
@@ -13664,7 +13799,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     </message>
     <message>
         <source>View two documents side by side to compare their contents.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dva dokumenta si oglejte vzporedno, tako da lahko primerjate njuno vsebino.</translation>
     </message>
 </context>
 <context>
@@ -13686,7 +13821,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     </message>
     <message>
         <source>Compress the selected picture or all pictures in the document to reduce the picture size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Če želite zmanjšati velikost določene slike ali vseh slik, jih lahko stisnite.</translation>
     </message>
 </context>
 <context>
@@ -13708,7 +13843,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     </message>
     <message>
         <source>Copy the selection and put it on the system Clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiraj izbiro in jo odložite v sistemsko odložišče.</translation>
     </message>
 </context>
 <context>
@@ -13719,7 +13854,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     </message>
     <message>
         <source>Insert Cover Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavi naslovno stran</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
@@ -13760,7 +13895,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     </message>
     <message>
         <source>Cut the selection and put it on the system Clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Izrežite izbrano vsebino in jo odložite v sistemsko odložišče.</translation>
     </message>
 </context>
 <context>
@@ -13782,7 +13917,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     </message>
     <message>
         <source>Delete the current cell, row, column or the whole table.</source>
-        <translation type="unfinished"></translation>
+        <translation>Izbriši trenutno celico, vrstico, stolpec ali celotno tabelo.</translation>
     </message>
 </context>
 <context>
@@ -13793,7 +13928,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     </message>
     <message>
         <source>Delete the currently selected section.</source>
-        <translation type="unfinished"></translation>
+        <translation>Izbriši trenutno izbrani odsek.</translation>
     </message>
 </context>
 <context>
@@ -13811,7 +13946,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     <name>tips.DemoteOnParagraph</name>
     <message>
         <source>Demote Outline Level</source>
-        <translation type="unfinished"></translation>
+        <translation>Znižaj orisno raven</translation>
     </message>
     <message>
         <source>Demote the selected paragraph to a lower outline level.</source>
@@ -14017,6 +14152,17 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     </message>
 </context>
 <context>
+    <name>tips.DrawingToolsDetailedSettings</name>
+    <message>
+        <source>DrawingToolsDetailedSettings Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DrawingToolsDetailedSettings Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>tips.DropCap</name>
     <message>
         <source>Create a large capital letter at the beginning of a paragraph.</source>
@@ -14160,7 +14306,7 @@ Click the arrow to choose Phonetic Guide, Change Case and Character Border optio
     <name>tips.FillColor</name>
     <message>
         <source>Click the arrow to choose different fill types.</source>
-        <translation>Kliknite puščico, da izberete različne vrste polnil.</translation>
+        <translation>Kliknite puščico, če želite izbrati druge vrste polnil.</translation>
     </message>
     <message>
         <source>Fill the selected shape with color, gradient, a texture, or a picture.
@@ -14220,7 +14366,7 @@ Click the arrow to choose other options, such as Go To.</source>
     </message>
     <message>
         <source>Go to the first section of the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pojdi na prvi odsek v dokumentu.</translation>
     </message>
 </context>
 <context>
@@ -14233,7 +14379,7 @@ Click the arrow to choose a different text color.</source>
     </message>
     <message>
         <source>Click the arrow to choose a different text color.</source>
-        <translation>Kliknite puščico, da izberete drugo barvo besedila.</translation>
+        <translation>Kliknite puščico, če želite izbrati drugo barvo besedila.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
@@ -14344,7 +14490,7 @@ Click the arrow to choose a different text color.</source>
     </message>
     <message>
         <source>Show the Format Object dialog box.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prikažite pogovorno okno »Vstavljanje celic«.</translation>
     </message>
 </context>
 <context>
@@ -14487,7 +14633,7 @@ This only affects tables which extend beyond a single page.</source>
     </message>
     <message>
         <source>Show the Header/Footer dialog box.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prikažite pogovorno okno »Glava/Noga«.</translation>
     </message>
 </context>
 <context>
@@ -14589,6 +14735,17 @@ This makes it easy to see what part of your form letter will be replaced by info
     </message>
 </context>
 <context>
+    <name>tips.HomeDetailedSettings</name>
+    <message>
+        <source>HomeDetailedSettings Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>HomeDetailedSettings Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>tips.IncreaseIndent</name>
     <message>
         <source>Increase Indent</source>
@@ -14629,7 +14786,7 @@ This makes it easy to see what part of your form letter will be replaced by info
     </message>
     <message>
         <source>Click here to insert a horizontal or vertical blank page.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kliknite tukaj, če želite vstaviti vodoravno ali navpično prazno stran.</translation>
     </message>
     <message>
         <source>Insert a new blank page at the cursor position.</source>
@@ -14690,7 +14847,7 @@ This makes it easy to see what part of your form letter will be replaced by info
     </message>
     <message>
         <source>Show the Insert Cells dialog box.</source>
-        <translation>Odprite pogovorno okno »Vstavljanje celic«.</translation>
+        <translation>Prikažite pogovorno okno »Vstavljanje celic«.</translation>
     </message>
 </context>
 <context>
@@ -14763,25 +14920,25 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     </message>
     <message>
         <source>Insert Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavi pripombo</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertDateTime</name>
     <message>
         <source>Date and Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Datum in čas</translation>
     </message>
     <message>
         <source>Insert the current date or time into the current document.</source>
-        <translation type="unfinished"></translation>
+        <translation>V dokument vstavite trenutni datum ali čas.</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertField</name>
     <message>
         <source>Insert Field</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavi polje</translation>
     </message>
     <message>
         <source>Insert field into the document.</source>
@@ -14792,11 +14949,11 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     <name>tips.InsertFileObject</name>
     <message>
         <source>Insert Object from File</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavi predmet iz datoteke</translation>
     </message>
     <message>
         <source>Insert selected file into the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>V dokument vstavi izbrano datoteko.</translation>
     </message>
 </context>
 <context>
@@ -14807,15 +14964,15 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     </message>
     <message>
         <source>Insert Footnote / Endnote</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavi sprotno opombo / končno opombo</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Če želite pomoč, pritisnite F1.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
@@ -14826,26 +14983,26 @@ Bar, Pie, Line, Area, and Radar are some of the available types.</source>
     </message>
     <message>
         <source>Insert Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavi hiperpovezavo</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Če želite pomoč, pritisnite F1.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertIndexTables</name>
     <message>
         <source>Insert Table of Contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavi kazalo vsebine</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Če želite pomoč, pritisnite F1.</translation>
     </message>
     <message>
         <source>Show the Table of Contents dialog box, and add a Table of Contents to the document.
@@ -14855,7 +15012,7 @@ Set directory level for the selected paragraph and add a Table of Contents.</sou
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
@@ -14870,18 +15027,18 @@ Set directory level for the selected paragraph and add a Table of Contents.</sou
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Če želite pomoč, pritisnite F1.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertMutidiagonalCell</name>
     <message>
         <source>Insert Multi-diagonal Cell</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavi več-diagonalno celico</translation>
     </message>
     <message>
         <source>Insert different types of diagonal lines in a cell to use as headings.
@@ -14894,7 +15051,7 @@ The diagonal lines in the table headings can be moved.</source>
     <name>tips.InsertNumber</name>
     <message>
         <source>Insert Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavi število</translation>
     </message>
     <message>
         <source>Insert a customized number format into the document.</source>
@@ -14909,7 +15066,7 @@ The diagonal lines in the table headings can be moved.</source>
     </message>
     <message>
         <source>Insert Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavi predmet</translation>
     </message>
     <message>
         <source>Insert an embedded object into the document.
@@ -14922,11 +15079,11 @@ Click the arrow to insert file content into the document.</source>
     <name>tips.InsertPageBreak</name>
     <message>
         <source>Page Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Prelom strani</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Če želite pomoč, pritisnite F1.</translation>
     </message>
     <message>
         <source>Start the next page at the current cursor position, and the content after the cursor will be moved to the new page.</source>
@@ -14934,63 +15091,79 @@ Click the arrow to insert file content into the document.</source>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertPageNumbers</name>
     <message>
         <source>Insert Page Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavi številko strani</translation>
     </message>
     <message>
         <source>Insert page numbers into the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>V dokument vstavite številke strani.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Če želite pomoč, pritisnite F1.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertPictureFromFile</name>
     <message>
         <source>Insert Picture from File</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavi sliko iz datoteke</translation>
     </message>
     <message>
         <source>Insert a picture from a file.</source>
+        <translation>Vstavite sliko iz datoteke.</translation>
+    </message>
+    <message>
+        <source>InsertPictureFromFile Content2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>InsertPictureFromFile Title2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>LinkText</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>LinkUrl</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Če želite pomoč, pritisnite F1.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertRowAbove</name>
     <message>
         <source>Add a new row directly above the selected row.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodajte novo vrstico neposredno nad izbrano vrstico.</translation>
     </message>
     <message>
         <source>Insert Rows Above</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavi vrstice zgoraj</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertRowBelow</name>
     <message>
         <source>Insert Rows Below</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavi vrstice spodaj</translation>
     </message>
     <message>
         <source>Insert a new row directly below the selected row.</source>
@@ -15023,41 +15196,41 @@ Click the arrow to insert file content into the document.</source>
     <name>tips.InsertSymbol</name>
     <message>
         <source>Insert Symbol</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavite simbol</translation>
     </message>
     <message>
         <source>Insert symbols that are not on your keyboard, such as enclosed characters and copyright symbols.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavite simbole, ki niso na tipkovnici, na primer priloženi znaki in simboli za avtorske pravice.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Če želite pomoč, pritisnite F1.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertWordArt</name>
     <message>
         <source>Insert decorative text in your document.</source>
-        <translation type="unfinished"></translation>
+        <translation>V dokument vstavite okrasno besedilo.</translation>
     </message>
     <message>
         <source>WordArt</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt</translation>
     </message>
 </context>
 <context>
     <name>tips.InsertWordField</name>
     <message>
         <source>Insert Next Fields</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavi naslednja polja</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Če želite pomoč, pritisnite F1.</translation>
     </message>
     <message>
         <source>To solve the page break issue in mail merge, if N lines are to be shown in one page, then insert N-1 next fields.</source>
@@ -15065,14 +15238,14 @@ Click the arrow to insert file content into the document.</source>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.Italic</name>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Ležeče</translation>
     </message>
     <message>
         <source>Italicize the selected text.</source>
@@ -15083,11 +15256,11 @@ Click the arrow to insert file content into the document.</source>
     <name>tips.KOSCloudFeedbackTip</name>
     <message>
         <source>Feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>Povratne informacije</translation>
     </message>
     <message>
         <source>Send feedback to us and help improve our product.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pošlji povratne informacije in pomagajte izboljšati izdelek.</translation>
     </message>
 </context>
 <context>
@@ -15098,7 +15271,7 @@ Click the arrow to insert file content into the document.</source>
     </message>
     <message>
         <source>Newbie Guide</source>
-        <translation type="unfinished"></translation>
+        <translation>Navodila za začetnike</translation>
     </message>
 </context>
 <context>
@@ -15112,14 +15285,14 @@ Click the arrow to insert file content into the document.</source>
     <name>tips.KOSOfficespacePsaawordTip</name>
     <message>
         <source>Password is incorrect.</source>
-        <translation type="unfinished"></translation>
+        <translation>Geslo je nepravilno.</translation>
     </message>
 </context>
 <context>
     <name>tips.KOSOfficespaceRegPsaawordTip</name>
     <message>
         <source>Password does not match.</source>
-        <translation type="unfinished"></translation>
+        <translation>Geslo se ne ujema.</translation>
     </message>
 </context>
 <context>
@@ -15130,18 +15303,18 @@ Click the arrow to insert file content into the document.</source>
     </message>
     <message>
         <source>Open from Cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>Odpri iz oblaka</translation>
     </message>
 </context>
 <context>
     <name>tips.KOSSaveFileTocloudTip</name>
     <message>
         <source>Save File to Cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>Shrani datoteko v oblak</translation>
     </message>
     <message>
         <source>Save file to Cloud. Edit the same document via multiple devices.</source>
-        <translation type="unfinished"></translation>
+        <translation>Shrani datoteko v oblak. Isti dokument uredi prek več naprav.</translation>
     </message>
 </context>
 <context>
@@ -15152,7 +15325,7 @@ Click the arrow to insert file content into the document.</source>
     </message>
     <message>
         <source>Not Logged in.</source>
-        <translation type="unfinished"></translation>
+        <translation>Niste prijavljeni</translation>
     </message>
 </context>
 <context>
@@ -15163,14 +15336,14 @@ Click the arrow to insert file content into the document.</source>
     </message>
     <message>
         <source>Not Logged in.</source>
-        <translation type="unfinished"></translation>
+        <translation>Niste prijavljeni</translation>
     </message>
 </context>
 <context>
     <name>tips.KOSUserLogoutCloudTip</name>
     <message>
         <source>Logged in.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prijavljeni.</translation>
     </message>
     <message>
         <source>You have logged in WPS account. View your profile or logout.</source>
@@ -15181,7 +15354,7 @@ Click the arrow to insert file content into the document.</source>
     <name>tips.KingsoftEquationEditor</name>
     <message>
         <source>Insert Equation</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavi enačbo</translation>
     </message>
     <message>
         <source>Insert mathematical equations with Equation Editor.</source>
@@ -15189,29 +15362,29 @@ Click the arrow to insert file content into the document.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Če želite pomoč, pritisnite F1.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.LastRecord</name>
     <message>
         <source>Last Record</source>
-        <translation type="unfinished"></translation>
+        <translation>Zadnji zapis</translation>
     </message>
     <message>
         <source>Preview the last record in the recipient list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Predogled zadnjega zapisa na seznamu prejemnikov.</translation>
     </message>
 </context>
 <context>
     <name>tips.LastSection</name>
     <message>
         <source>Last Section</source>
-        <translation type="unfinished"></translation>
+        <translation>Zadnji odsek</translation>
     </message>
     <message>
         <source>Relocate to the last section of the document.</source>
@@ -15222,46 +15395,48 @@ Click the arrow to insert file content into the document.</source>
     <name>tips.LineColor</name>
     <message>
         <source>Click the arrow to choose more outline styles.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kliknite puščico, če želite izbrati več slogov orisa.</translation>
     </message>
     <message>
         <source>Shape Outline</source>
-        <translation type="unfinished"></translation>
+        <translation>Oris oblike</translation>
     </message>
     <message>
         <source>Specify the color, width, and line style for the outline of the selected shape.
 
 Click the arrow to choose more outline styles.</source>
-        <translation type="unfinished"></translation>
+        <translation>Določite barvo, širino in slog črte za izbrano obliko.
+
+Kliknite puščico, če želite izbrati več slogov orisa.</translation>
     </message>
 </context>
 <context>
     <name>tips.LineSpacingShow</name>
     <message>
         <source>Change the spacing between lines of text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Spremenite razmak med vrsticami besedila.</translation>
     </message>
     <message>
         <source>Line Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Razmik vrstic</translation>
     </message>
 </context>
 <context>
     <name>tips.LinktoPreviousHeader</name>
     <message>
         <source>Link to Previous</source>
-        <translation type="unfinished"></translation>
+        <translation>Poveži s prejšnjim</translation>
     </message>
     <message>
         <source>Make the header and footer of the current section the same as the previous section.</source>
-        <translation type="unfinished"></translation>
+        <translation>Naredite glavo in nogo v trenutnem odseku enako kot v prejšnjem odseku.</translation>
     </message>
 </context>
 <context>
     <name>tips.LocateToSection</name>
     <message>
         <source>Locate to Section</source>
-        <translation type="unfinished"></translation>
+        <translation>Poišči do odseka</translation>
     </message>
     <message>
         <source>Relocate to the other section.</source>
@@ -15274,18 +15449,20 @@ Click the arrow to choose more outline styles.</source>
         <source>Synchronize the scrolling of two documents so that they scroll together.
 
 To enable this feature, turn on &quot;View Side by Side&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sinhronizirajte drsenje po dveh dokumentih, tako da po njih drsite skupaj.
+
+Če želite omogočiti to funkcijo, vklopite vzporeden pogled.</translation>
     </message>
     <message>
         <source>Synchronous Scrolling</source>
-        <translation type="unfinished"></translation>
+        <translation>Sinhrono pomikanje</translation>
     </message>
 </context>
 <context>
     <name>tips.LooseLineSpacing</name>
     <message>
         <source>Loose Line Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Ohlapen razmik vrstic</translation>
     </message>
     <message>
         <source>Set 1.5 line spacing to the selected paragraph with snap to grid selected.</source>
@@ -15296,11 +15473,11 @@ To enable this feature, turn on &quot;View Side by Side&quot;.</source>
     <name>tips.Macro</name>
     <message>
         <source>View Macros</source>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži makre</translation>
     </message>
     <message>
         <source>View the list of Macros, from which you can run, create or delete a macro.</source>
-        <translation type="unfinished"></translation>
+        <translation>Oglejte si seznam makrov, na katerem lahko makre predvajate, ustvarite ali izbrišete.</translation>
     </message>
 </context>
 <context>
@@ -15318,14 +15495,14 @@ To enable this feature, turn on &quot;View Side by Side&quot;.</source>
     </message>
     <message>
         <source>Recipients</source>
-        <translation type="unfinished"></translation>
+        <translation>Prejemniki</translation>
     </message>
 </context>
 <context>
     <name>tips.MarkVersion</name>
     <message>
         <source>Manual Backup</source>
-        <translation type="unfinished"></translation>
+        <translation>Načrtovana varnostna kopija</translation>
     </message>
     <message>
         <source>Without closing the file, you can manually backup the current file to your File Safe, and add notes to the backup file.</source>
@@ -15340,14 +15517,14 @@ To enable this feature, turn on &quot;View Side by Side&quot;.</source>
     </message>
     <message>
         <source>Show or hide revision markups in the document.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pokaži ali skrij </translation>
     </message>
 </context>
 <context>
     <name>tips.MatchFields</name>
     <message>
         <source>Match Fields</source>
-        <translation type="unfinished"></translation>
+        <translation>Primerjaj polja</translation>
     </message>
     <message>
         <source>Match Fields allows you to tell Writer the meanings of different fields in the recipient list. For example, you can indicate that your custom field &quot;Zip&quot; is equivalent to normal built-in field &quot;Zip Code&quot;.</source>
@@ -15358,11 +15535,11 @@ To enable this feature, turn on &quot;View Side by Side&quot;.</source>
     <name>tips.MergeCells</name>
     <message>
         <source>Merge Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Spoji celice</translation>
     </message>
     <message>
         <source>Merge the selected cells into one cell.</source>
-        <translation type="unfinished"></translation>
+        <translation>Združite izbrane celice v eno celico.</translation>
     </message>
 </context>
 <context>
@@ -15373,84 +15550,84 @@ To enable this feature, turn on &quot;View Side by Side&quot;.</source>
     </message>
     <message>
         <source>Merge to Different New Documents</source>
-        <translation type="unfinished"></translation>
+        <translation>Spoji v druge nove dokumente</translation>
     </message>
 </context>
 <context>
     <name>tips.MergeToEmail</name>
     <message>
         <source>Merge to Email</source>
-        <translation type="unfinished"></translation>
+        <translation>Spoji v e-pošto</translation>
     </message>
     <message>
         <source>Send merged content via email.</source>
-        <translation type="unfinished"></translation>
+        <translation>Spojeno vsebino pošlji prek e-pošte.</translation>
     </message>
 </context>
 <context>
     <name>tips.MergeToNewDoc</name>
     <message>
         <source>Export merged content to a new document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Izvozi spojeno vsebino v nov dokument.</translation>
     </message>
     <message>
         <source>Merge to New Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Spoji v nov dokument</translation>
     </message>
 </context>
 <context>
     <name>tips.MergeToPrinter</name>
     <message>
         <source>Merge to Printer</source>
-        <translation type="unfinished"></translation>
+        <translation>Spoji s tiskalnikom</translation>
     </message>
     <message>
         <source>Print the merged content.</source>
-        <translation type="unfinished"></translation>
+        <translation>Natisni spojeno vsebino.</translation>
     </message>
 </context>
 <context>
     <name>tips.NavigationPane</name>
     <message>
         <source>Navigation Pane</source>
-        <translation type="unfinished"></translation>
+        <translation>Podokno za krmarjenje</translation>
     </message>
     <message>
         <source>Show or hide Navigation Pane.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaži ali skrij podokno za krmarjenje.</translation>
     </message>
 </context>
 <context>
     <name>tips.NewWindow</name>
     <message>
         <source>New Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Novo okno</translation>
     </message>
     <message>
         <source>Open a new window containing a view of the current document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Odprite novo okno, ki vsebuje pogled trenutnega dokumenta.</translation>
     </message>
 </context>
 <context>
     <name>tips.NextChange</name>
     <message>
         <source>Navigate to the next revision in the document so that you can accept or reject it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Premaknite se na naslednjo revizijo v dokumentu, da jo sprejmete ali zavrnete.</translation>
     </message>
     <message>
         <source>Next Change</source>
-        <translation type="unfinished"></translation>
+        <translation>Naslednja sprememba</translation>
     </message>
 </context>
 <context>
     <name>tips.NextComment</name>
     <message>
         <source>Navigate to the next comment in the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Premaknite se na naslednjo pripombo v dokumentu.</translation>
     </message>
     <message>
         <source>Next Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Naslednja pripomba</translation>
     </message>
 </context>
 <context>
@@ -15461,18 +15638,18 @@ To enable this feature, turn on &quot;View Side by Side&quot;.</source>
     </message>
     <message>
         <source>Show Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaži naslednjo</translation>
     </message>
 </context>
 <context>
     <name>tips.NextRecord</name>
     <message>
         <source>Next Record</source>
-        <translation type="unfinished"></translation>
+        <translation>Naslednji zapis</translation>
     </message>
     <message>
         <source>Preview the next record in the recipient list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Predogled naslednjega zapisa na seznamu prejemnikov.</translation>
     </message>
 </context>
 <context>
@@ -15483,7 +15660,7 @@ To enable this feature, turn on &quot;View Side by Side&quot;.</source>
     </message>
     <message>
         <source>Next Section</source>
-        <translation type="unfinished"></translation>
+        <translation>Naslednji odsek</translation>
     </message>
 </context>
 <context>
@@ -15494,7 +15671,7 @@ To enable this feature, turn on &quot;View Side by Side&quot;.</source>
     </message>
     <message>
         <source>Next Text Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Naslednje polje z besedilom</translation>
     </message>
 </context>
 <context>
@@ -15505,7 +15682,7 @@ To enable this feature, turn on &quot;View Side by Side&quot;.</source>
     </message>
     <message>
         <source>Nudge Shadow Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Pomakni senco navzdol</translation>
     </message>
 </context>
 <context>
@@ -15516,7 +15693,7 @@ To enable this feature, turn on &quot;View Side by Side&quot;.</source>
     </message>
     <message>
         <source>Nudge Shadow Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Pomakni senco na levo</translation>
     </message>
 </context>
 <context>
@@ -15527,7 +15704,7 @@ To enable this feature, turn on &quot;View Side by Side&quot;.</source>
     </message>
     <message>
         <source>Nudge Shadow Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Pomakni senco na desno</translation>
     </message>
 </context>
 <context>
@@ -15538,14 +15715,14 @@ To enable this feature, turn on &quot;View Side by Side&quot;.</source>
     </message>
     <message>
         <source>Nudge Shadow Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Pomakni senco navzgor</translation>
     </message>
 </context>
 <context>
     <name>tips.Numbering</name>
     <message>
         <source>Bullets</source>
-        <translation type="unfinished"></translation>
+        <translation>Oznake</translation>
     </message>
     <message>
         <source>Click the arrow to choose from different numbering formats.</source>
@@ -15566,7 +15743,7 @@ Click the arrow to choose from different numbering formats.</source>
     <name>tips.ObjectSelect</name>
     <message>
         <source>Selection Pane</source>
-        <translation type="unfinished"></translation>
+        <translation>Podokno izbire</translation>
     </message>
     <message>
         <source>Show the Selection Pane to easily find a single object or set its order and visibility.</source>
@@ -15577,11 +15754,11 @@ Click the arrow to choose from different numbering formats.</source>
     <name>tips.OnePage</name>
     <message>
         <source>One Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Ena stran</translation>
     </message>
     <message>
         <source>Zoom the document so that an entire page fits in the window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Povečajte dokument, tako da se celotna stran prilega širini okna.</translation>
     </message>
 </context>
 <context>
@@ -15592,7 +15769,7 @@ Click the arrow to choose from different numbering formats.</source>
     </message>
     <message>
         <source>Open Data Source</source>
-        <translation type="unfinished"></translation>
+        <translation>Odpri vir podatkov</translation>
     </message>
     <message>
         <source>Open data soucres in the local folder, such as spreadsheet files, database files and text files.</source>
@@ -15603,18 +15780,18 @@ Click the arrow to choose from different numbering formats.</source>
     <name>tips.OutLine</name>
     <message>
         <source>Outline View</source>
-        <translation type="unfinished"></translation>
+        <translation>Orisni pogled</translation>
     </message>
     <message>
         <source>View the document as an outline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokument si oglejte kot oris.</translation>
     </message>
 </context>
 <context>
     <name>tips.OutLineLevelComboOnOutlining</name>
     <message>
         <source>Outline Level</source>
-        <translation type="unfinished"></translation>
+        <translation>Orisna raven</translation>
     </message>
     <message>
         <source>Set an outline level for the selected paragraph.</source>
@@ -15622,14 +15799,25 @@ Click the arrow to choose from different numbering formats.</source>
     </message>
 </context>
 <context>
-    <name>tips.PageNumber</name>
+    <name>tips.PageLayoutDetailedSettings</name>
     <message>
-        <source>Insert Page Number</source>
+        <source>PageLayoutDetailedSettings Content</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Press F1 for more help.</source>
+        <source>PageLayoutDetailedSettings Title</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>tips.PageNumber</name>
+    <message>
+        <source>Insert Page Number</source>
+        <translation>Vstavi številko strani</translation>
+    </message>
+    <message>
+        <source>Press F1 for more help.</source>
+        <translation>Če želite pomoč, pritisnite F1.</translation>
     </message>
     <message>
         <source>Show the Page Numbers dialog box, and apply page number settings to the current section or the whole document.</source>
@@ -15637,14 +15825,14 @@ Click the arrow to choose from different numbering formats.</source>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.PageNumberFormat</name>
     <message>
         <source>Page Number Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Oblika zapisa številk strani</translation>
     </message>
     <message>
         <source>Select number formats for page numbers in the current document.</source>
@@ -15666,40 +15854,51 @@ Click the arrow to choose from different numbering formats.</source>
     <name>tips.PageOrientation</name>
     <message>
         <source>Page Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Usmerjenost strani</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Če želite pomoč, pritisnite F1.</translation>
     </message>
     <message>
         <source>Switch the pages between portrait and landscape layouts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Preklopite med pokončno in ležečo usmerjenostjo strani.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.PageSetup</name>
     <message>
         <source>Page Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Priprava strani</translation>
     </message>
     <message>
         <source>Show the Page Setup dialog box.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prikažite pogovorno okno »Priprava strani«.</translation>
     </message>
 </context>
 <context>
     <name>tips.PageWidth</name>
     <message>
         <source>Page Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Širina strani</translation>
     </message>
     <message>
         <source>Zoom the document so that the width of the page matches the width of the window.</source>
+        <translation>Povečajte dokument, tako da se širina strani ujema s širino okna.</translation>
+    </message>
+</context>
+<context>
+    <name>tips.ParagraphDetailedSettings</name>
+    <message>
+        <source>ParagraphDetailedSettings Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ParagraphDetailedSettings Title</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -15709,11 +15908,13 @@ Click the arrow to choose from different numbering formats.</source>
         <source>Display phonetic characters to clarify the pronunciation.
 
 Click the arrow to choose Change Case, Enclose Characters, and Character Border options.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Prikažite fonetične znake in tako pojasnite izgovorjavo.
+
+</translation>
     </message>
     <message>
         <source>Phonetic Guide</source>
-        <translation type="unfinished"></translation>
+        <translation>Fonetični vodnik</translation>
     </message>
 </context>
 <context>
@@ -15724,14 +15925,14 @@ Click the arrow to choose Change Case, Enclose Characters, and Character Border 
     </message>
     <message>
         <source>Other Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Ostale možnosti</translation>
     </message>
 </context>
 <context>
     <name>tips.PictureAdjust</name>
     <message>
         <source>Adjust Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Prilagodi sliko</translation>
     </message>
     <message>
         <source>Increase or decrease the contrast and brightness of the selected picture.</source>
@@ -15742,7 +15943,7 @@ Click the arrow to choose Change Case, Enclose Characters, and Character Border 
     <name>tips.PictureColor</name>
     <message>
         <source>Recolor</source>
-        <translation type="unfinished"></translation>
+        <translation>Prebarvaj</translation>
     </message>
     <message>
         <source>Recolor the picture to give it a black and white, washout or transparent color.</source>
@@ -15753,11 +15954,11 @@ Click the arrow to choose Change Case, Enclose Characters, and Character Border 
     <name>tips.PictureCrop</name>
     <message>
         <source>Crop</source>
-        <translation type="unfinished"></translation>
+        <translation>Obreži</translation>
     </message>
     <message>
         <source>Crop the picture to remove any unwanted parts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Če želite odstraniti neželene dele, obrežite sliko.</translation>
     </message>
 </context>
 <context>
@@ -15774,7 +15975,7 @@ Click the arrow to select different fill modes.</source>
     </message>
     <message>
         <source>Picture Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Polnilo slike</translation>
     </message>
 </context>
 <context>
@@ -15785,7 +15986,7 @@ Click the arrow to select different fill modes.</source>
     </message>
     <message>
         <source>Picture Outline</source>
-        <translation type="unfinished"></translation>
+        <translation>Oris slike</translation>
     </message>
     <message>
         <source>Set picture outline color, outline width and outline style for the selected object.
@@ -15813,6 +16014,17 @@ Click the arrow to select detailed settings for the selected object.</source>
     </message>
     <message>
         <source>Picture Size</source>
+        <translation>Velikost slike</translation>
+    </message>
+</context>
+<context>
+    <name>tips.PictureToolsDetailedSettings</name>
+    <message>
+        <source>PictureToolsDetailedSettings Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PictureToolsDetailedSettings Title</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -15820,22 +16032,22 @@ Click the arrow to select detailed settings for the selected object.</source>
     <name>tips.PreviousChange</name>
     <message>
         <source>Navigate to the previous revision in the document so that you can accept or reject it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Premaknite se na prejšnjo revizijo v dokumentu, da jo sprejmete ali zavrnete.</translation>
     </message>
     <message>
         <source>Previous Change</source>
-        <translation type="unfinished"></translation>
+        <translation>Prejšnja sprememba</translation>
     </message>
 </context>
 <context>
     <name>tips.PreviousComment</name>
     <message>
         <source>Navigate to the previous comment in the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Premaknite se na prejšnjo pripombo v dokumentu.</translation>
     </message>
     <message>
         <source>Previous Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Prejšnja pripomba</translation>
     </message>
 </context>
 <context>
@@ -15846,29 +16058,29 @@ Click the arrow to select detailed settings for the selected object.</source>
     </message>
     <message>
         <source>Show Previous</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaži prejšnje</translation>
     </message>
 </context>
 <context>
     <name>tips.PreviousRecord</name>
     <message>
         <source>Preview the previous record in the recipient list</source>
-        <translation type="unfinished"></translation>
+        <translation>Predogled prejšnjega zapisa na seznamu prejemnikov.</translation>
     </message>
     <message>
         <source>Previous Record</source>
-        <translation type="unfinished"></translation>
+        <translation>Prejšnji zapis</translation>
     </message>
 </context>
 <context>
     <name>tips.PreviousSection</name>
     <message>
         <source>Navigate to the previous section.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pojdite na prejšnji odsek.</translation>
     </message>
     <message>
         <source>Previous Section</source>
-        <translation type="unfinished"></translation>
+        <translation>Prejšnji odsek</translation>
     </message>
 </context>
 <context>
@@ -15879,7 +16091,7 @@ Click the arrow to select detailed settings for the selected object.</source>
     </message>
     <message>
         <source>Previous Text Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Prejšnje polje z besedilom</translation>
     </message>
 </context>
 <context>
@@ -15894,58 +16106,58 @@ Click the arrow to select detailed settings for the selected object.</source>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished"></translation>
+        <translation>Natisni</translation>
     </message>
 </context>
 <context>
     <name>tips.PrintDirect</name>
     <message>
         <source>Quick Print</source>
-        <translation type="unfinished"></translation>
+        <translation>Hitro tiskanje</translation>
     </message>
     <message>
         <source>Send the document directly to the default printer without making changes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pošljite dokument neposredno na privzeti tiskalnik, brez narejenih sprememb.</translation>
     </message>
 </context>
 <context>
     <name>tips.PrintLayoutView</name>
     <message>
         <source>Print Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Postavitev tiskanja</translation>
     </message>
     <message>
         <source>View the document as it will appear on the printed page.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokument si oglejte tako, kot bo prikazan na tiskani strani.</translation>
     </message>
 </context>
 <context>
     <name>tips.PrintPreview</name>
     <message>
         <source>Preview and make changes to pages before printing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pred tiskanjem si stran predoglejte in naredite spremembe na njej.</translation>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Predogled tiskanja</translation>
     </message>
 </context>
 <context>
     <name>tips.PrintPreviewZoomCombo</name>
     <message>
         <source>Specify the zoom level of the current document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Določite stopnjo povečave trenutnega dokumenta.</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Povečava</translation>
     </message>
 </context>
 <context>
     <name>tips.PrintShowViewRuler</name>
     <message>
         <source>Ruler</source>
-        <translation type="unfinished"></translation>
+        <translation>Ravnilo</translation>
     </message>
     <message>
         <source>Show or hide the rulers used to measure and line up objects in the document.</source>
@@ -15956,99 +16168,99 @@ Click the arrow to select detailed settings for the selected object.</source>
     <name>tips.PromoteOnOutlining</name>
     <message>
         <source>Promote</source>
-        <translation type="unfinished"></translation>
+        <translation>Povišaj</translation>
     </message>
     <message>
         <source>Promote the selected item to a higher level.</source>
-        <translation type="unfinished"></translation>
+        <translation>Izbrani element povišajte na višjo raven.</translation>
     </message>
 </context>
 <context>
     <name>tips.PromoteOnParagraph</name>
     <message>
         <source>Promote directory level</source>
-        <translation type="unfinished"></translation>
+        <translation>Povišaj reven imenika</translation>
     </message>
     <message>
         <source>Promote the directory level of the selected paragraph to a higher level.</source>
-        <translation type="unfinished"></translation>
+        <translation>Povišaj raven imenika izbranega odstavka na višjo raven.</translation>
     </message>
 </context>
 <context>
     <name>tips.PromoteToHighestLevelOnOutlining</name>
     <message>
         <source>Promote this item to the highest level of the outline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Element povišajte na najvišjo raven orisa.</translation>
     </message>
     <message>
         <source>Promote to Heading 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Povišaj v »Naslov 1« </translation>
     </message>
 </context>
 <context>
     <name>tips.PromoteToHighestLevelOnParagraph</name>
     <message>
         <source>Promote this item to the highest level of the outline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Element povišajte na najvišjo raven orisa.</translation>
     </message>
     <message>
         <source>Promote to Heading 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Povišaj v »Naslov 1« </translation>
     </message>
 </context>
 <context>
     <name>tips.ProtectDocument</name>
     <message>
         <source>Document Protection</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaščita dokumenta</translation>
     </message>
     <message>
         <source>Help restrict people from making certain types of editing or formatting to the document by specifying a password.</source>
-        <translation type="unfinished"></translation>
+        <translation>Omejite osebam določene vrste urejanja ali oblikovanja dokumenta tako, da določite geslo.</translation>
     </message>
 </context>
 <context>
     <name>tips.RB_Clipboard</name>
     <message>
         <source>Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Odložišče</translation>
     </message>
     <message>
         <source>View items on Clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogled elementov na odložišču.</translation>
     </message>
 </context>
 <context>
     <name>tips.RB_Font</name>
     <message>
         <source>Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Pisava</translation>
     </message>
     <message>
         <source>Show the Font dialog box.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prikažite pogovorno okno »Pisava«.</translation>
     </message>
 </context>
 <context>
     <name>tips.RB_Paragraph</name>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstavek</translation>
     </message>
     <message>
         <source>Show the Paragraph dialog box.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prikažite pogovorno okno »Odstavek«.</translation>
     </message>
 </context>
 <context>
     <name>tips.RB_Style</name>
     <message>
         <source>Show the Styles and Formatting task pane.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaži podokno opravil »Slogi in oblikovanje«.</translation>
     </message>
     <message>
         <source>Styles and Formatting</source>
-        <translation type="unfinished"></translation>
+        <translation>Slogi in oblikovanje</translation>
     </message>
 </context>
 <context>
@@ -16059,19 +16271,19 @@ Click the arrow to select detailed settings for the selected object.</source>
     </message>
     <message>
         <source>Customize the borders of the selected cells or text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prilagodite meje izbranih celic ali besedila.</translation>
     </message>
     <message>
         <source>Outside Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Zunanje obrobe</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Če želite pomoč, pritisnite F1.</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
@@ -16084,7 +16296,7 @@ Results will be displayed in a cell following the selected cells in the same row
     </message>
     <message>
         <source>Fast Calculation</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiter izračun</translation>
     </message>
 </context>
 <context>
@@ -16093,47 +16305,51 @@ Results will be displayed in a cell following the selected cells in the same row
         <source>Change the text color.
 
 Click the arrow to select a different text color.</source>
-        <translation type="unfinished"></translation>
+        <translation>Spremenite barvo besedila.
+
+Kliknite puščico, da izberete drugo barvo besedila.</translation>
     </message>
     <message>
         <source>Click the arrow to select a different text color.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kliknite puščico, da izberete drugo barvo besedila.</translation>
     </message>
     <message>
         <source>Text Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Barva besedila</translation>
     </message>
 </context>
 <context>
     <name>tips.RecentTableShadingColor</name>
     <message>
         <source>Click the arrow to select different background colors.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kliknite puščico, da izberete druge barve za ozadje.</translation>
     </message>
     <message>
         <source>Color the background behind the selected text or paragraph.
 
 Click the arrow to select different background colors.</source>
-        <translation type="unfinished"></translation>
+        <translation>Obarvajte ozadje za izbranim besedilom ali odstavkom.
+
+Kliknite puščico, da izberete druge barve za ozadje.</translation>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Če želite pomoč, pritisnite F1.</translation>
     </message>
     <message>
         <source>Shading Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Barva senčenja</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
     <name>tips.ReducedStep</name>
     <message>
         <source>Reduce Line Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmanjšaj razmik vrstic</translation>
     </message>
     <message>
         <source>Reduce the line spacing of the selected paragraph by 0.25.</source>
@@ -16163,7 +16379,7 @@ Click the arrow to select different background colors.</source>
     </message>
     <message>
         <source>Reject Change</source>
-        <translation type="unfinished"></translation>
+        <translation>Zavrni spremembo</translation>
     </message>
     <message>
         <source>Reject the selected change in the document</source>
@@ -16174,7 +16390,7 @@ Click the arrow to select different background colors.</source>
     <name>tips.RelocateDownOnOutlining</name>
     <message>
         <source>Move Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Premakni navzdol</translation>
     </message>
     <message>
         <source>Move the selected item down within the outline.</source>
@@ -16185,7 +16401,7 @@ Click the arrow to select different background colors.</source>
     <name>tips.RelocateUpOnOutlining</name>
     <message>
         <source>Move Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Premakni navzgor</translation>
     </message>
     <message>
         <source>Move the selected item up within the outline.</source>
@@ -16196,7 +16412,7 @@ Click the arrow to select different background colors.</source>
     <name>tips.Replace</name>
     <message>
         <source>Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>Zamenjaj</translation>
     </message>
     <message>
         <source>Replace text content in the document.</source>
@@ -16211,15 +16427,15 @@ Click the arrow to select different background colors.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Če želite pomoč, pritisnite F1.</translation>
     </message>
     <message>
         <source>Reset Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Ponastavi sliko</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
@@ -16237,7 +16453,7 @@ Click the arrow to select different background colors.</source>
     <name>tips.Ruler</name>
     <message>
         <source>Ruler</source>
-        <translation type="unfinished"></translation>
+        <translation>Ravnilo</translation>
     </message>
     <message>
         <source>Show or hide the ruler, used to measure and line up objects in the document.</source>
@@ -16252,6 +16468,17 @@ Click the arrow to select different background colors.</source>
     </message>
     <message>
         <source>View Macros</source>
+        <translation>Prikaži makre</translation>
+    </message>
+</context>
+<context>
+    <name>tips.SectionDetailedSettings</name>
+    <message>
+        <source>SectionDetailedSettings Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SectionDetailedSettings Title</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -16259,7 +16486,7 @@ Click the arrow to select different background colors.</source>
     <name>tips.Security</name>
     <message>
         <source>Customize the macro security settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prilagodite varnostne nastavitve za makre.</translation>
     </message>
     <message>
         <source>Macros Security</source>
@@ -16270,18 +16497,18 @@ Click the arrow to select different background colors.</source>
     <name>tips.Select</name>
     <message>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation>Izberi</translation>
     </message>
     <message>
         <source>Select text or objects in the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Izberite besedilo ali predmete v dokumentu.</translation>
     </message>
 </context>
 <context>
     <name>tips.SendBackward</name>
     <message>
         <source>Send Backward</source>
-        <translation type="unfinished"></translation>
+        <translation>Pošlji nazaj</translation>
     </message>
     <message>
         <source>Send an object one step towards the back of other objects.</source>
@@ -16317,14 +16544,14 @@ Click the arrow to select different shadow colors.</source>
     </message>
     <message>
         <source>Shadow Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Barva sence</translation>
     </message>
 </context>
 <context>
     <name>tips.ShadowOnOff</name>
     <message>
         <source>Shadow On/Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Vklopi/izklopi senčenje</translation>
     </message>
     <message>
         <source>Turn the shadow of the selected object on or off.</source>
@@ -16339,18 +16566,18 @@ Click the arrow to select different shadow colors.</source>
     </message>
     <message>
         <source>Shadow Effects</source>
-        <translation type="unfinished"></translation>
+        <translation>Učinki senčenja</translation>
     </message>
 </context>
 <context>
     <name>tips.ShapeSize</name>
     <message>
         <source>Set the size, rotation degrees and zoom for the selected shape.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavi velikost, stopinje vrtenja in povečavo za izbrano obliko.</translation>
     </message>
     <message>
         <source>Shape Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Velikost oblike</translation>
     </message>
 </context>
 <context>
@@ -16361,15 +16588,15 @@ Click the arrow to select different shadow colors.</source>
     </message>
     <message>
         <source>Press F1 for more help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Če želite pomoč, pritisnite F1.</translation>
     </message>
     <message>
         <source>Shapes</source>
-        <translation type="unfinished"></translation>
+        <translation>Oblike</translation>
     </message>
     <message>
         <source>http://help.kingsoftstore.com/writer</source>
-        <translation type="unfinished"></translation>
+        <translation>http://help.kingsoftstore.com/writer</translation>
     </message>
 </context>
 <context>
@@ -16380,7 +16607,7 @@ Click the arrow to select different shadow colors.</source>
     </message>
     <message>
         <source>Document Map</source>
-        <translation type="unfinished"></translation>
+        <translation>Zgradba dokumenta</translation>
     </message>
     <message>
         <source>Show or hide the Document Map pane.</source>
@@ -16391,7 +16618,7 @@ Click the arrow to select different shadow colors.</source>
     <name>tips.ShowFirstLineOnly</name>
     <message>
         <source>Show First Line Only</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaži samo prvo vrstico</translation>
     </message>
     <message>
         <source>Show only the first line of each item in the outline.</source>
@@ -16402,40 +16629,40 @@ Click the arrow to select different shadow colors.</source>
     <name>tips.ShowFirstPageNumber</name>
     <message>
         <source>Show or hide the page number on the first page of the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaži ali skrij številko strani na prvi strani dokumenta.</translation>
     </message>
     <message>
         <source>Show page number on first page</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaži številko prve strani</translation>
     </message>
 </context>
 <context>
     <name>tips.ShowFormatting</name>
     <message>
         <source>Show Text Formatting</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaži oblikovanje besedila</translation>
     </message>
     <message>
         <source>Show or hide all the text formatting in the outline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaži ali skrij vsa oblikovanja besedila v orisu.</translation>
     </message>
 </context>
 <context>
     <name>tips.ShowGridlines</name>
     <message>
         <source>Show or hide the gridlines within the table that has no borders.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaži ali skrij mrežne črte v tabeli, ki nima robov.</translation>
     </message>
     <message>
         <source>View Table Gridlines</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogled mrežnih črt tabele</translation>
     </message>
 </context>
 <context>
     <name>tips.ShowHeaderOrFooter</name>
     <message>
         <source>Switch between Header and Footer</source>
-        <translation type="unfinished"></translation>
+        <translation>Preklopi med glavo in nogo</translation>
     </message>
     <message>
         <source>Switch between the header and footer of the current page in the document.</source>
@@ -16450,7 +16677,7 @@ Click the arrow to select different shadow colors.</source>
     </message>
     <message>
         <source>Show/Hide Editing Marks</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaži/skrij oznake za urejanje</translation>
     </message>
 </context>
 <context>
@@ -16461,7 +16688,7 @@ Click the arrow to select different shadow colors.</source>
     </message>
     <message>
         <source>Show/hide Paragraph Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaži / skrij postavitev odstavka</translation>
     </message>
 </context>
 <context>
@@ -16470,44 +16697,46 @@ Click the arrow to select different shadow colors.</source>
         <source>Choose which levels to show in the outline.
 
 The selected level and all higher levels will be visible.</source>
-        <translation type="unfinished"></translation>
+        <translation>Izberite ravni, ki jih želite pokazati v orisu.
+
+Vidna bo izbrana raven in vse višje ravni.</translation>
     </message>
     <message>
         <source>Show Level</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaži raven</translation>
     </message>
 </context>
 <context>
     <name>tips.ShrinkFont</name>
     <message>
         <source>Decrease the font size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmanjšajte velikost pisave.</translation>
     </message>
     <message>
         <source>Shrink Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Pomanjšaj pisavo</translation>
     </message>
 </context>
 <context>
     <name>tips.SimplifiedChinese</name>
     <message>
         <source>Convert the document to Simplified Chinese.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokument pretvorite v poenostavljeno kitajščino.</translation>
     </message>
     <message>
         <source>Simplified</source>
-        <translation type="unfinished"></translation>
+        <translation>Poenostavljeno</translation>
     </message>
 </context>
 <context>
     <name>tips.SplitCells</name>
     <message>
         <source>Split Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Razdeli celice</translation>
     </message>
     <message>
         <source>Split the selected cells into multiple new cells.</source>
-        <translation type="unfinished"></translation>
+        <translation>Razdelite izbrane celice v več novih celic.</translation>
     </message>
 </context>
 <context>
@@ -16518,7 +16747,7 @@ The selected level and all higher levels will be visible.</source>
     </message>
     <message>
         <source>Insert the next section break into the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavi naslednji prelom odseka v dokument.</translation>
     </message>
     <message>
         <source>Split Section</source>
@@ -16533,7 +16762,7 @@ The selected level and all higher levels will be visible.</source>
     </message>
     <message>
         <source>Split the table into two tables according to the rows or columns.</source>
-        <translation type="unfinished"></translation>
+        <translation>Razdeli tabelo v dve tabeli glede na vrstice ali stolpce.</translation>
     </message>
 </context>
 <context>
@@ -16709,7 +16938,7 @@ Click the arrow to select different border colors.</source>
     <name>tips.TableEraser</name>
     <message>
         <source>Erase the borders of a table in the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Izbriši robove tabele v dokumentu.</translation>
     </message>
     <message>
         <source>Table Eraser</source>
@@ -16769,7 +16998,7 @@ Kliknite puščico, da izberete drugo barvo senčenja.</translation>
     <name>tips.Tabs</name>
     <message>
         <source>Show the Tabs dialog box, and set tab stop position of the text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prikažite pogovorno okno »Zavihki« in nastavi tabulatorsko mesto besedila.</translation>
     </message>
     <message>
         <source>Tabs</source>
@@ -16980,6 +17209,17 @@ This is often used to indicate that the document is to be treated specially, suc
     </message>
 </context>
 <context>
+    <name>tips.WordArtDetailedSettings</name>
+    <message>
+        <source>WordArtDetailedSettings Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WordArtDetailedSettings Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>tips.WordArtFill</name>
     <message>
         <source>Click the arrow to fill the WordArt in different ways.</source>
@@ -17050,7 +17290,7 @@ Click the arrow to choose more outline styles.</source>
     <name>tips.WordArtSize</name>
     <message>
         <source>Set the size, rotation degree and scale of the selected WordArt.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavi velikost, stopinje vrtenja in merilo izbranega WordArta.</translation>
     </message>
     <message>
         <source>WordArt Size</source>
@@ -17317,7 +17557,7 @@ Lahko jih tudi usredinite ali enakomerno porazdelite po strani.</translation>
     <name>tips.m_Wrapping</name>
     <message>
         <source>Change the way text wraps around the selected object, such as square and behind text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Spremenite način oblivanja besedila okoli predmeta, kot je kvadrat in za besedilom.</translation>
     </message>
     <message>
         <source>Text Wrapping</source>
@@ -17328,7 +17568,7 @@ Lahko jih tudi usredinite ali enakomerno porazdelite po strani.</translation>
     <name>tips.m_tocLevel</name>
     <message>
         <source>Set ToC level for the selected paragraph.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavi raven v kazalu vsebine za izbrani odstavek.</translation>
     </message>
     <message>
         <source>ToC Level</source>
@@ -17343,7 +17583,7 @@ Lahko jih tudi usredinite ali enakomerno porazdelite po strani.</translation>
     </message>
     <message>
         <source>Delete Selected Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Izbriši izbrano pripombo</translation>
     </message>
 </context>
 <context>
@@ -17376,7 +17616,7 @@ Lahko jih tudi usredinite ali enakomerno porazdelite po strani.</translation>
     <name>tips.weibotool</name>
     <message>
         <source>Convert document to picture and share in Weibo.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pretvori dokument v sliko in daj v skupno rabo v Weibo</translation>
     </message>
     <message>
         <source>Weibotool</source>
@@ -17387,47 +17627,47 @@ Lahko jih tudi usredinite ali enakomerno porazdelite po strani.</translation>
     <name>wordtools</name>
     <message>
         <source>Change to Blank Paragraph Split Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Spremeni v način razdeljevanja praznega odstavka</translation>
     </message>
     <message>
         <source>Convert Paragraph Indent to Space</source>
-        <translation type="unfinished"></translation>
+        <translation>Pretvori zamik odstavka v presledke.</translation>
     </message>
     <message>
         <source>Convert Soft Return to Return</source>
-        <translation type="unfinished"></translation>
+        <translation>Spremeni mehki prehod v Enter</translation>
     </message>
     <message>
         <source>Delete Blank Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>Izbriši prazen odstavek</translation>
     </message>
     <message>
         <source>Delete Soft Return</source>
-        <translation type="unfinished"></translation>
+        <translation>izbriši mehki prehod</translation>
     </message>
     <message>
         <source>Delete Spaces</source>
-        <translation type="unfinished"></translation>
+        <translation>Izbriši presledke</translation>
     </message>
     <message>
         <source>Delete spaces at beginning of paragraph with first-line indent</source>
-        <translation type="unfinished"></translation>
+        <translation>Izbriši presledke na začetku odstavka z zamikom prve vrstice</translation>
     </message>
     <message>
         <source>Indent Paragraph by 2 Characters</source>
-        <translation type="unfinished"></translation>
+        <translation>Zamakni odstavek za dva znaka</translation>
     </message>
     <message>
         <source>Insert Blank Paragraphs</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavi prazen odstavek</translation>
     </message>
     <message>
         <source>Rearrange Paragraphs</source>
-        <translation type="unfinished"></translation>
+        <translation>Preuredi odstavke</translation>
     </message>
     <message>
         <source>Smart Rearrange</source>
-        <translation type="unfinished"></translation>
+        <translation>Pametna preureditev</translation>
     </message>
 </context>
 <context>
@@ -17446,7 +17686,7 @@ Lahko jih tudi usredinite ali enakomerno porazdelite po strani.</translation>
     </message>
     <message>
         <source>Cloud Feedback</source>
-        <translation>Povratne informacije oblaka </translation>
+        <translation>Povratne informacije oblaka</translation>
     </message>
     <message>
         <source>Explore Backup Directory</source>
@@ -17486,11 +17726,11 @@ Lahko jih tudi usredinite ali enakomerno porazdelite po strani.</translation>
     </message>
     <message>
         <source>Share to Weibo</source>
-        <translation type="unfinished"></translation>
+        <translation>Skupna raba v Weibo</translation>
     </message>
     <message>
         <source>Share via Weibo</source>
-        <translation type="unfinished"></translation>
+        <translation>Skupna raba prek Weibo</translation>
     </message>
     <message>
         <source>Stop Auto Backup</source>
@@ -17671,11 +17911,11 @@ Lahko jih tudi usredinite ali enakomerno porazdelite po strani.</translation>
     </message>
     <message>
         <source>Click to turn on/off reviewing function</source>
-        <translation type="unfinished"></translation>
+        <translation>Kliknite, da vklopite/izklopite samodejno funkcijo predogleda</translation>
     </message>
     <message>
         <source>Click to turn on/off spelling check</source>
-        <translation type="unfinished"></translation>
+        <translation>Kliknite, da vklopite/izklopite preverjanje črkovanja</translation>
     </message>
     <message>
         <source>Clip Art</source>
@@ -17687,7 +17927,7 @@ Lahko jih tudi usredinite ali enakomerno porazdelite po strani.</translation>
     </message>
     <message>
         <source>Clipboard Pane</source>
-        <translation type="unfinished"></translation>
+        <translation>Podokno odložišča</translation>
     </message>
     <message>
         <source>Collapse</source>
@@ -17695,7 +17935,7 @@ Lahko jih tudi usredinite ali enakomerno porazdelite po strani.</translation>
     </message>
     <message>
         <source>Comment Context Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Priročni meni pripomb</translation>
     </message>
     <message>
         <source>Compress Pictures</source>
@@ -17743,7 +17983,7 @@ Lahko jih tudi usredinite ali enakomerno porazdelite po strani.</translation>
     </message>
     <message>
         <source>Document collaboration</source>
-        <translation type="unfinished"></translation>
+        <translation>Sodelovanje prek dokumentov</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -17751,7 +17991,7 @@ Lahko jih tudi usredinite ali enakomerno porazdelite po strani.</translation>
     </message>
     <message>
         <source>Endnotes Context Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Priročni meni končnih opomb</translation>
     </message>
     <message>
         <source>Exit</source>
@@ -17767,7 +18007,7 @@ Lahko jih tudi usredinite ali enakomerno porazdelite po strani.</translation>
     </message>
     <message>
         <source>Fields Context Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Priročni meni polj</translation>
     </message>
     <message>
         <source>File</source>
@@ -17787,7 +18027,7 @@ Lahko jih tudi usredinite ali enakomerno porazdelite po strani.</translation>
     </message>
     <message>
         <source>Footnotes Context Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Priročni meni sprotnih opomb</translation>
     </message>
     <message>
         <source>Format</source>
@@ -17795,7 +18035,7 @@ Lahko jih tudi usredinite ali enakomerno porazdelite po strani.</translation>
     </message>
     <message>
         <source>Frame Context Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Priročni meni okvirja</translation>
     </message>
     <message>
         <source>Full Screen</source>
@@ -17827,7 +18067,7 @@ Lahko jih tudi usredinite ali enakomerno porazdelite po strani.</translation>
     </message>
     <message>
         <source>Hyperlink Context Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Priročni meni hiperpovezave</translation>
     </message>
     <message>
         <source>Increase Indent</source>
@@ -17843,7 +18083,7 @@ Lahko jih tudi usredinite ali enakomerno porazdelite po strani.</translation>
     </message>
     <message>
         <source>Insert Blank Field</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstavi prazno polje</translation>
     </message>
     <message>
         <source>Italic</source>
@@ -17855,7 +18095,7 @@ Lahko jih tudi usredinite ali enakomerno porazdelite po strani.</translation>
     </message>
     <message>
         <source>Kingsoft Online Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingsoft spletne predloge</translation>
     </message>
     <message>
         <source>Macros</source>
@@ -17867,7 +18107,7 @@ Lahko jih tudi usredinite ali enakomerno porazdelite po strani.</translation>
     </message>
     <message>
         <source>Measurement unit. Click to open &quot;Options&quot; dialog.</source>
-        <translation type="unfinished"></translation>
+        <translation>Merska enota. Kliknite, da odprete pogovorno okno &quot;Možnosti&quot;.</translation>
     </message>
     <message>
         <source>More Underline Colors</source>
@@ -17887,7 +18127,7 @@ Lahko jih tudi usredinite ali enakomerno porazdelite po strani.</translation>
     </message>
     <message>
         <source>MsgAtMe</source>
-        <translation type="unfinished"></translation>
+        <translation>Sporočilo meni</translation>
     </message>
     <message>
         <source>New</source>
@@ -17947,7 +18187,7 @@ Lahko jih tudi usredinite ali enakomerno porazdelite po strani.</translation>
     </message>
     <message>
         <source>Page and section of the document. Click to go to certain page or section.</source>
-        <translation type="unfinished"></translation>
+        <translation>Stran ali odsek dokumenta. Kliknite, če želite odpreti določeno stran ali odsek.</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -17991,11 +18231,11 @@ Lahko jih tudi usredinite ali enakomerno porazdelite po strani.</translation>
     </message>
     <message>
         <source>S MsgAtMe</source>
-        <translation type="unfinished"></translation>
+        <translation>S Sporočilo meni</translation>
     </message>
     <message>
         <source>S Office space</source>
-        <translation type="unfinished"></translation>
+        <translation>S Office prostor</translation>
     </message>
     <message>
         <source>Save</source>
@@ -18019,15 +18259,15 @@ Lahko jih tudi usredinite ali enakomerno porazdelite po strani.</translation>
     </message>
     <message>
         <source>Set Spellcheck Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavi jezik preverjanja črkovanja</translation>
     </message>
     <message>
         <source>ShapeAndGallery</source>
-        <translation type="unfinished"></translation>
+        <translation>Oblika in galerija</translation>
     </message>
     <message>
         <source>Shapes Context Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Priročni meni oblik</translation>
     </message>
     <message>
         <source>Shrink Font</source>
@@ -18063,7 +18303,7 @@ Lahko jih tudi usredinite ali enakomerno porazdelite po strani.</translation>
     </message>
     <message>
         <source>Symbol Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Orodna vrstica simbol</translation>
     </message>
     <message>
         <source>Table</source>
@@ -18131,7 +18371,7 @@ Lahko jih tudi usredinite ali enakomerno porazdelite po strani.</translation>
     </message>
     <message>
         <source>View</source>
-        <translation>Pogled</translation>
+        <translation>Ogled</translation>
     </message>
     <message>
         <source>View Field Codes</source>
@@ -18159,7 +18399,7 @@ Lahko jih tudi usredinite ali enakomerno porazdelite po strani.</translation>
     </message>
     <message>
         <source>Word Count. Click to open &quot;Word Count&quot; dialog.</source>
-        <translation type="unfinished"></translation>
+        <translation>Štetje besed. Kliknite, da odprete pogovorno okno &quot;Štetje besed&quot;.</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -18211,6 +18451,10 @@ Lahko jih tudi usredinite ali enakomerno porazdelite po strani.</translation>
         <translation>Orodja za risanje</translation>
     </message>
     <message>
+        <source>EnterpriseMicroblog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>File</source>
         <translation>Datoteka</translation>
     </message>
@@ -18232,7 +18476,7 @@ Lahko jih tudi usredinite ali enakomerno porazdelite po strani.</translation>
     </message>
     <message>
         <source>Home</source>
-        <translation>Domov</translation>
+        <translation>Osnovno</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -18324,7 +18568,7 @@ Lahko jih tudi usredinite ali enakomerno porazdelite po strani.</translation>
     </message>
     <message>
         <source>Stick the Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Pritrdi orodno vrstico</translation>
     </message>
     <message>
         <source>Switch UI</source>
@@ -18344,7 +18588,7 @@ Lahko jih tudi usredinite ali enakomerno porazdelite po strani.</translation>
     </message>
     <message>
         <source>View</source>
-        <translation>Pogled</translation>
+        <translation>Ogled</translation>
     </message>
     <message>
         <source>What&apos;s New</source>
@@ -18431,6 +18675,10 @@ Lahko jih tudi usredinite ali enakomerno porazdelite po strani.</translation>
         <translation>Orodja za risanje</translation>
     </message>
     <message>
+        <source>EnterpriseMicroblog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>File</source>
         <translation>Datoteka</translation>
     </message>
@@ -18452,7 +18700,7 @@ Lahko jih tudi usredinite ali enakomerno porazdelite po strani.</translation>
     </message>
     <message>
         <source>Home</source>
-        <translation>Domov</translation>
+        <translation>Osnovno</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -18536,7 +18784,7 @@ Lahko jih tudi usredinite ali enakomerno porazdelite po strani.</translation>
     </message>
     <message>
         <source>Stick the Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Pritrdi orodno vrstico</translation>
     </message>
     <message>
         <source>Switch UI</source>
@@ -18556,7 +18804,7 @@ Lahko jih tudi usredinite ali enakomerno porazdelite po strani.</translation>
     </message>
     <message>
         <source>View</source>
-        <translation>Pogled</translation>
+        <translation>Ogled</translation>
     </message>
     <message>
         <source>What&apos;s New</source>
